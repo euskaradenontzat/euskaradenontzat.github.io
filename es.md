@@ -14,7 +14,7 @@
 
 
 Resumen
-“Euskara denontzat, por un euskera sin barreras” es un grupo que quiere promover un debate propositivo sobre la política lingüística en Euskadi en clave pluralista, construyendo puentes y superando barreras. Se van a organizar distintas actividades de contraste y difusión.
+“Euskara denontzat, por un euskera sin barreras” es un grupo que quiere promover un debate propositivo sobre la política lingüística en Euskadi en clave pluralista, construyendo puentes para que el euskera sea accesible para toda la población y superando barreras. Se van a organizar distintas actividades de contraste y difusión.
  
 ## Texto explicativo de 12 propuestas para debatir sobre la renovación de la política lingüística vasca
 
