@@ -22,7 +22,7 @@ Resumen
 
 (12 propuestas para renovar la política lingüística vasca)
 
-#### A.- Gratuidad y liberaciones para aprender euskera
+#### A.- Gratuidad y liberaciones para aprender euskera superando las barreras del dinero y del tiempo
 
 ##### A.I.- Gratuidad (barrera precio)
 
