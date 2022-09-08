@@ -2,7 +2,7 @@
 
 <!-- img src="img/icono.png"-->
 
-<h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">Artículo a favor de Un pacto educativo político… y social</span> </h1>
+<h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span> </h1>
 
 * [Resumen](#resumen)
 * [Texto explicativo de 12 propuestas para debatir sobre la renovación de la política lingüística vasca](#artículo)
