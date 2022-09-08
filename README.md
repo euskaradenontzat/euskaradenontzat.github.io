@@ -23,7 +23,7 @@
 
 (12 proposamen euskal hizkuntza-politika berritzeko)
 
-#### A.- Euskara ikasteko doakotasuna eta liberazioak
+#### A.- Euskara ikasteko doakotasuna eta liberazioak prezioaren eta denboraren oztopoak gaindituz
 
 ##### A.I.- Doakotasuna (prezioaren oztopoa)
 
