@@ -8,6 +8,7 @@
 * [Texto explicativo de 12 propuestas para debatir sobre la renovación de la política lingüística vasca](#artículo)
 * [Para recibir información sobre esta campaña, apúntate aquí ](#para-apoyar-la-propuesta-del-artículo)
 
+<a href="#" class="pressbutton">Recibir información</a>
 
 ## Resumen
 
