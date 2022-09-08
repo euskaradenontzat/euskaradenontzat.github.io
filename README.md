@@ -89,6 +89,7 @@ Euskadiko Estatuko Administrazio Orokorrak ere elebitasuna errespetatu behar du,
 Azalpena: Hizkuntza eskakizunak, arreta elebidunerako beharrezkoak diren lanpostuetako eskatzea funtsezko tresna da herritarren hizkuntza hautua bermatzeko. Gainera, merezimendu gisa baloratzea zentzuzkoa da, baldin eta pisu erabakigarria ez badu, eta de facto eskakizun bihurtzen ez bada derrigorrezko hizkuntza eskakizunik ez duten lanpostuetan ere.
 
 
+
 #### D.- Azterketa soziolinguistikoetan klase, genero eta jatorriaren ikuspegia bermatzea
 
 > **Proposamen 12**: Azterketa soziolinguistikoak egiteko garaian, klasearen eta jatorriaren ikuspegia sartzea, genero ikuspegiaz gain.
