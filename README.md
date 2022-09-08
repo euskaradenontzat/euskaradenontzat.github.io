@@ -96,9 +96,10 @@ Azalpena: Hizkuntza eskakizunak, arreta elebidunerako beharrezkoak diren lanpost
 
 Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak orientatzeko orduan laguntzen duen bezala, kontuan hartu behar dira klasearen eta jatorriaren ikuspegiak politika publikoak egiterakoan. Batez ere, hizkuntzarekin zerikusia duten politiketan, egiaztatzen dutenen eta ez dutenen artean zatiketa soziala saihesteko, desberdintasuna eta galtzaileen/irabazleen logika eragin baitezake gizarte-arrakala toxiko bat.
 
-<hr>
 
-Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko
+## Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfwq5N2NxDttnR74odIyTSBpgzcE-AFLVuR_epoPB0HxQyFlQ/viewform" class="pressbutton">Izena eman</a> 
 
 <meta property="og:title" content="adierazpena">
 <style>
