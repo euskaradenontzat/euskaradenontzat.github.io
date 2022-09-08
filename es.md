@@ -94,10 +94,10 @@ Explicación: Los perfiles como requisito en los puestos de trabajo necesarios p
 
 Explicación: De igual manera que la perspectiva de género ayuda a la hora de orientar las políticas públicas para tratar de lograr una plena igualdad, se deben de tomar en cuenta las perspectivas de clase y origen a la hora de realizar las políticas públicas. Especialmente en aquellas que tengan que ver con el idioma, para evitar una división social dentro de la ciudadanía vasca entre los que acreditan y los que no, que puede provocar desigualdad y una lógica de perdedores/ganadores, una tóxica brecha social.
 
-<hr>
-Para recibir información sobre esta campaña, apúntate aquí. 
 
-  
+## Para recibir información sobre esta campaña, apúntate aquí. 
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfwq5N2NxDttnR74odIyTSBpgzcE-AFLVuR_epoPB0HxQyFlQ/viewform" class="pressbutton">Recibir información</a> 
 
 
 
