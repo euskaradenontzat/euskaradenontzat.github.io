@@ -27,9 +27,9 @@
 
 ##### A.I.- Doakotasuna (prezioaren oztopoa)
 
-> **1. Proposamena**: Euskaltegietako matrikulen prezioa (gaur egun 800 euro inguru) hizkuntza-eskola ofizialetako matrikulekin parekatzea (80 euro), eta gero itzultzea, gutxieneko klasetara joateko baldintzak bete ondoren.
+> **1. Proposamena**: Euskaltegietako matrikulen prezioa (gaur egun 800 euro inguru, erdia euskaltegi publikoetan ikasten duten ikasleen % 24rentzat) hizkuntza-eskola ofizialetako matrikulekin parekatzea (80 euro), eta gero itzultzea, gutxieneko klasetara joateko baldintzak bete ondoren.
 
-Azalpena: Euskadin bizi den eta euskara ikasi nahi duen pertsona orok horretarako aukera ekonomikoa izatea, udal bakoitzak eskaintzen dituen aukeren eta baliabideen araberakoa izan beharrean. Hau da, HABEren esparru komun bat izatea, ikastaro horiek hezkuntza orokorraren antzeko baldintzetan modu eskuragarrian egitea erraztuko duena.
+Azalpena: Euskadin bizi den eta euskara ikasi nahi duen pertsona orok (gaur egun 35.000 ikasle urtero) horretarako aukera ekonomikoa izatea, udal bakoitzak eskaintzen dituen aukeren eta baliabideen araberakoa izan beharrean. Hau da, HABEren esparru komun bat izatea, ikastaro horiek hezkuntza orokorraren antzeko baldintzetan modu eskuragarrian egitea erraztuko duena.
 
 
 ##### A.II.- Liberazioak (denboraren oztopoa)
