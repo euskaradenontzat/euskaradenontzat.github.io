@@ -13,7 +13,6 @@
 ## Resumen
 
 
-Resumen
 “Euskara denontzat, por un euskera sin barreras” es un grupo que quiere promover un debate propositivo sobre la política lingüística en Euskadi en clave pluralista, construyendo puentes para que el euskera sea accesible para toda la población y superando barreras. Se van a organizar distintas actividades de contraste y difusión.
  
 ## Texto explicativo de 12 propuestas para debatir sobre la renovación de la política lingüística vasca
@@ -26,9 +25,9 @@ Resumen
 
 ##### A.I.- Gratuidad (barrera precio)
 
-> **Propuesta 1**: Equiparar el precio de las matrículas de los euskaltegis (actualmente en torno a 800 euros) a las de las escuelas oficiales de idiomas (80 euros), con devolución posterior tras el cumplimiento de los requisitos de asistencia mínima.
+> **Propuesta 1**: Equiparar el precio de las matrículas de los euskaltegis (actualmente en torno a 800 euros y sobre la mitad para el 24% del alumnado que estudia euskaltegis públicos) a las de las escuelas oficiales de idiomas (80 euros), con devolución posterior tras el cumplimiento de los requisitos de asistencia mínima.
 
-Explicación: Que toda persona residente en Euskadi que quiera aprender euskera tenga la posibilidad económica de hacerlo en vez de depender de la disposición y recursos que destine cada ayuntamiento. Es decir, la existencia de un marco común de HABE que facilite realizar dichos cursos de manera accesible en condiciones similares a la educación general.
+Explicación: Que toda persona residente en Euskadi que quiera aprender euskera (actualmente 35.000 estudiantes al año) tenga la posibilidad económica de hacerlo en vez de depender de la disposición y recursos que destine cada ayuntamiento. Es decir, la existencia de un marco común de HABE que facilite realizar dichos cursos de manera accesible en condiciones similares a la educación general.
 
  
 ##### A.II.- Liberaciones (barrera del tiempo)
