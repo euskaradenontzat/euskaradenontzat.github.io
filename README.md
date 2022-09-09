@@ -68,7 +68,7 @@ Azalpena: Ikasketa ofizialen zati bat euskaraz egiteak euskararen ezagutza egiaz
 
 Azalpena: Egungo hizkuntza eskakizunen sistemak lau hizkuntza trebetasun aldi berean egiaztatzea eskatzen du (ahozko eta idatzizko ulermena, ahozko eta idatzizko adierazpena). Baina edozein hizkuntza komunitatetan pertsona askok maila desberdinak lortzen dituzte trebetasun bakoitzean, eta, beraz, funtsezkoa da trebetasun bakoitza modu bereizian egiaztatzeko aukera zabaltzea, hala nola Euskaraldian aldarrikatzen den ulermena edo euskaldun agrafoen ahozkotasuna, TOEFL bezalako ziurtagirietan egiten den bezala.
 
-Era berean, lanpostu askok maila asimetrikoak behar dituzte beren eginkizunak betetzeko. Adibidez, autobus gidariak edo egoitzetako zaintzaileak, ez baitute idatzi behar beren zereginak egiteko, baizik eta hitz egiten eta ulertzen jakitea nahikoa izango litzateke. Baina, gaur egun, hizkuntza eskakizunen sistemako lanpostuetan eska daitekeen gutxieneko ezagutza B1etik gorakoa da trebetasun guztietan, A1 eta A2 erabatean onartu gabe.
+Era berean, lanpostu askok maila asimetrikoak behar dituzte beren eginkizunak betetzeko. Adibidez, autobus gidariak edo egoitzetako zaintzaileak, ez baitute idatzi behar beren zereginak egiteko, baizik eta hitz egiten eta ulertzen jakitea nahikoa izango litzateke. Baina, gaur egun, hizkuntza eskakizunen sistemako lanpostuetan eska daitekeen gutxieneko ezagutza B1etik gorakoa da trebetasun guztietan, A1 eta A2 mailak baloratu gabe (euskaltegietako ikasle guztien % 28k ikasten dute maila hauetan, eta horietatik % 40 Euskal Herritik kanpokoak dira).
 
 ##### C.II.- Hizkuntza-eskakizuna baldintza gisa
 
