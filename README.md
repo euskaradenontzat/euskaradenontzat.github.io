@@ -12,7 +12,7 @@
 
 ## Laburpena
 
-“Euskara denontzat, por un euskera sin barreras”, Euskadiko hizkuntza-politikari buruzko eztabaida oinarri pluralistekin sustatu nahi duen taldea da, zubiak eraikiz euskara denontzat eskuragarri izateko eta harresiak gaindituz. Kontraste eta hedapen jarduerak antolatuko dira.
+“Euskara denontzat, por un euskera sin barreras”, Euskadiko hizkuntza-politikari buruzko eztabaida oinarri pluralistekin sustatu nahi duen taldea da, euskara denontzat eskuragarri izateko zubiak eraikiz eta harresiak gaindituz. Kontraste eta hedapen jarduerak antolatuko dira.
 
 <!--a href="http://t.me/eraikiz"><img src="img/zubiak-eraikiz_p.png"></a-->
 
