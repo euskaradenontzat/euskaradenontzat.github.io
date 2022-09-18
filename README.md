@@ -102,7 +102,7 @@ Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak o
 
 ## Metodologia eta datuak
 
-* [Euskal AEko biztanleria, biziterriari jarraiki, sexuaren eta etxean hitzegindako hizkuntzaren arabera. 2016](https://eu.eustat.eus/elementos/ele0014700/ti_poblacion-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-sexo-y-la-lengua-hablada-en-casa-2016/tbl0014755_e.html
+* [Euskal AEko biztanleria, biziterriari jarraiki, sexuaren eta etxean hitzegindako hizkuntzaren arabera. 2016](https://eu.eustat.eus/elementos/ele0014700/ti_poblacion-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-sexo-y-la-lengua-hablada-en-casa-2016/tbl0014755_e.html)
 * [Euskal AEko 2 urteko eta gehiagoko biztanleria, bizi-udalerriareni jarraiki, euskara maila globalaren arabera. 2016](https://eu.eustat.eus/elementos/ele0014600/ti_43-poblacion-de-2-y-mas-anos-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-nivel-global-de-euskara-2016/tbl0014689_e.html)
 * [86/1997 Dekretuak araututako erakundeetako hizkuntza eskakizunak](https://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE:6420429909286::NO:RP:P18_ID,P18_EXPAND:65213,N&p_lang=eu)
 * [Udalherrien inguruak. Euskalgeo](http://www.euskalgeo.net/eu/deskargak/zonifikazio-administratiboa)
@@ -113,6 +113,8 @@ Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak o
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a> 
 
 ## Aktibitateak
+
+----
 
 <meta property="og:title" content="adierazpena">
 <style>
