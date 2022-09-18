@@ -1,6 +1,7 @@
+
 **Euskera** | [Castellano](es)
 
-<!-- img src="img/icono.png" -->
+<img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat>
 
 <h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span></h1>
 
@@ -8,7 +9,7 @@
 * [Euskal hizkuntza-politika berritzeari buruzko eztabaidarako 12 proposamen azaltzen dituen testua](#adierazpena)
 * [Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko](#adierazpena-sinatu)
 
-<a href="#" class="pressbutton">Izena eman</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a>
 
 ## Laburpena
 
