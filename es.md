@@ -1,6 +1,6 @@
 [Euskera](/) | **Castellano**
 
-<img src="img/logo_euskara-denontzat_p.png">
+<img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat>
 
 <h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span> </h1>
 
@@ -113,7 +113,6 @@ h1:nth-child(1) {
   line-height: 0;
 }
 .pressbutton {
-    background-color: #008080;
     border: none;
     color: white;
     padding: 15px 32px;

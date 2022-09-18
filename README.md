@@ -11,6 +11,9 @@
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a>
 
+<iframe title="Conocimiento, uso y perfiles lingüísticos por municipio en Euskadi" aria-label="Mapa" id="datawrapper-chart-u0UUA" src="https://datawrapper.dwcdn.net/u0UUA/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="699"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
 ## Laburpena
 
 “Euskara denontzat, por un euskera sin barreras”, Euskadiko hizkuntza-politikari buruzko eztabaida oinarri pluralistekin sustatu nahi duen taldea da, euskara denontzat eskuragarri izateko zubiak eraikiz eta harresiak gaindituz. Kontraste eta hedapen jarduerak antolatuko dira.
@@ -109,7 +112,7 @@ h1:nth-child(1) {
   line-height: 0;
 }
 .pressbutton {
-    background-color: #008080;
+    background-color: #008871;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -121,6 +124,6 @@ h1:nth-child(1) {
     border-radius: 20px;
 }
 a {
- color: #008080;
+ color: #008871;
 }
 </style>
