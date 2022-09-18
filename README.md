@@ -8,10 +8,12 @@
 * [Laburpena](#laburpena)
 * [Euskal hizkuntza-politika berritzeari buruzko eztabaidarako 12 proposamen azaltzen dituen testua](#euskal-hizkuntza-politika-berritzeari-buruzko-eztabaidarako-12-proposamen-azaltzen-dituen-testua)
 * [Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko](#apunta-zaitez-hemen-kanpainari-buruzko-informazioa-jasotzeko)
+* [Metodologia eta datuak](#metodologia-eta-datuak)
+* [Aktibitateak](#aktibitateak)
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a>
 
-<iframe title="Conocimiento, uso y perfiles lingüísticos por municipio en Euskadi" aria-label="Mapa" id="datawrapper-chart-u0UUA" src="https://datawrapper.dwcdn.net/u0UUA/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="699"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Erabilpena, ezagutza eta hizkuntza eskakizunak Euskadiko udalherrietan" aria-label="Map" id="datawrapper-chart-UIdgO" src="https://datawrapper.dwcdn.net/UIdgO/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="672"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 ## Laburpena
@@ -92,18 +94,25 @@ Euskadiko Estatuko Administrazio Orokorrak ere elebitasuna errespetatu behar du,
 
 Azalpena: Hizkuntza eskakizunak, arreta elebidunerako beharrezkoak diren lanpostuetako eskatzea funtsezko tresna da herritarren hizkuntza hautua bermatzeko. Gainera, merezimendu gisa baloratzea zentzuzkoa da, baldin eta pisu erabakigarria ez badu, eta de facto eskakizun bihurtzen ez bada derrigorrezko hizkuntza eskakizunik ez duten lanpostuetan ere.
 
-
-
 #### D.- Azterketa soziolinguistikoetan klase, genero eta jatorriaren ikuspegia bermatzea
 
 > **12. Proposamena**: Azterketa soziolinguistikoak egiteko garaian, klasearen eta jatorriaren ikuspegia sartzea, genero ikuspegiaz gain.
 
 Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak orientatzeko orduan laguntzen duen bezala, kontuan hartu behar dira klasearen eta jatorriaren ikuspegiak politika publikoak egiterakoan. Batez ere, hizkuntzarekin zerikusia duten politiketan, egiaztatzen dutenen eta ez dutenen artean zatiketa soziala saihesteko, desberdintasuna eta galtzaileen/irabazleen logika eragin baitezake gizarte-arrakala toxiko bat.
 
+## Metodologia eta datuak
+
+* [Euskal AEko biztanleria, biziterriari jarraiki, sexuaren eta etxean hitzegindako hizkuntzaren arabera. 2016](https://eu.eustat.eus/elementos/ele0014700/ti_poblacion-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-sexo-y-la-lengua-hablada-en-casa-2016/tbl0014755_e.html
+* [Euskal AEko 2 urteko eta gehiagoko biztanleria, bizi-udalerriareni jarraiki, euskara maila globalaren arabera. 2016](https://eu.eustat.eus/elementos/ele0014600/ti_43-poblacion-de-2-y-mas-anos-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-nivel-global-de-euskara-2016/tbl0014689_e.html)
+* [86/1997 Dekretuak araututako erakundeetako hizkuntza eskakizunak](https://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE:6420429909286::NO:RP:P18_ID,P18_EXPAND:65213,N&p_lang=eu)
+* [Udalherrien inguruak. Euskalgeo](http://www.euskalgeo.net/eu/deskargak/zonifikazio-administratiboa)
+
 
 ## Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a> 
+
+## Aktibitateak
 
 <meta property="og:title" content="adierazpena">
 <style>
@@ -124,6 +133,6 @@ h1:nth-child(1) {
     border-radius: 20px;
 }
 a {
- color: #008871;
+ color: #ba006b;
 }
 </style>
