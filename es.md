@@ -7,6 +7,7 @@
 * [Resumen](#resumen)
 * [Texto explicativo de 12 propuestas para debatir sobre la renovación de la política lingüística vasca](#texto-explicativo-de-12-propuestas-para-debatir-sobre-la-renovación-de-la-política-lingüística-vasca)
 * [Para recibir información sobre esta campaña, apúntate aquí ](#para-recibir-información-sobre-esta-campaña-apúntate-aquí)
+* [Actividades](#actividades)
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Recibir información</a>
 
@@ -98,11 +99,24 @@ Explicación: Los perfiles como requisito en los puestos de trabajo necesarios p
 Explicación: De igual manera que la perspectiva de género ayuda a la hora de orientar las políticas públicas para tratar de lograr una plena igualdad, se deben de tomar en cuenta las perspectivas de clase y origen a la hora de realizar las políticas públicas. Especialmente en aquellas que tengan que ver con el idioma, para evitar una división social dentro de la ciudadanía vasca entre los que acreditan y los que no, que puede provocar desigualdad y una lógica de perdedores/ganadores, una tóxica brecha social.
 
 
-## Para recibir información sobre esta campaña, apúntate aquí. 
+## Para recibir información sobre esta campaña, apúntate aquí 
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Recibir información</a> 
 
 
+## Actividades
+
+
+
+### Presentación de la actividad
+
+<img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat sin barreras" width="300">
+
+**8 de octubre 2022**
+Hora: 10:00h.
+La Bolsa. Cale Pelota 10. Bilbao.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in elit sapien. Maecenas tincidunt neque leo, eu eleifend ante ultricies sodales. Donec rutrum aliquam diam non ultrices. In pulvinar nunc vel malesuada porta. 
 
 
 
