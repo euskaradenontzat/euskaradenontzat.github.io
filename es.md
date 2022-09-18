@@ -1,6 +1,6 @@
 [Euskera](/) | **Castellano**
 
-<!-- img src="img/icono.png"-->
+<img src="img/logo_euskara-denontzat_p.png">
 
 <h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span> </h1>
 
@@ -12,7 +12,6 @@
 
 <iframe title="Conocimiento, uso y perfiles lingüísticos por municipio en Euskadi" aria-label="Mapa" id="datawrapper-chart-u0UUA" src="https://datawrapper.dwcdn.net/u0UUA/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="699"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
-
 
 ## Resumen
 
@@ -126,6 +125,6 @@ h1:nth-child(1) {
     border-radius: 20px;
 }
 a {
- color: #008080;
+ color: #008871;
 }
 </style>
