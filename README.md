@@ -1,9 +1,9 @@
 
 **Euskera** | [Castellano](es)
 
-<img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat>
+<img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat">
 
-<h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span></h1>
+<h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008871;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span></h1>
 
 * [Laburpena](#laburpena)
 * [Euskal hizkuntza-politika berritzeari buruzko eztabaidarako 12 proposamen azaltzen dituen testua](#adierazpena)

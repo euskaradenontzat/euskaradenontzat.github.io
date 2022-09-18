@@ -1,8 +1,8 @@
 [Euskera](/) | **Castellano**
 
-<img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat>
+<img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat sin barreras">
 
-<h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span> </h1>
+<h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008871;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span> </h1>
 
 * [Resumen](#resumen)
 * [Texto explicativo de 12 propuestas para debatir sobre la renovación de la política lingüística vasca](#artículo)
@@ -113,6 +113,7 @@ h1:nth-child(1) {
   line-height: 0;
 }
 .pressbutton {
+    background-color: #008871;
     border: none;
     color: white;
     padding: 15px 32px;
