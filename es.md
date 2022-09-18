@@ -5,8 +5,8 @@
 <h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008871;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span> </h1>
 
 * [Resumen](#resumen)
-* [Texto explicativo de 12 propuestas para debatir sobre la renovación de la política lingüística vasca](#artículo)
-* [Para recibir información sobre esta campaña, apúntate aquí ](#para-apoyar-la-propuesta-del-artículo)
+* [Texto explicativo de 12 propuestas para debatir sobre la renovación de la política lingüística vasca](#texto-explicativo-de-12-propuestas-para-debatir-sobre-la-renovación-de-la-política-lingüística-vasca)
+* [Para recibir información sobre esta campaña, apúntate aquí ](#para-recibir-información-sobre-esta-campaña-apúntate-aquí)
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Recibir información</a>
 
@@ -100,7 +100,7 @@ Explicación: De igual manera que la perspectiva de género ayuda a la hora de o
 
 ## Para recibir información sobre esta campaña, apúntate aquí. 
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfwq5N2NxDttnR74odIyTSBpgzcE-AFLVuR_epoPB0HxQyFlQ/viewform" class="pressbutton">Recibir información</a> 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Recibir información</a> 
 
 
 

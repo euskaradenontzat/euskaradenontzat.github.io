@@ -1,13 +1,13 @@
 
 **Euskera** | [Castellano](es)
 
-<img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat">
+<img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat sin barreras">
 
 <h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008871;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span></h1>
 
 * [Laburpena](#laburpena)
-* [Euskal hizkuntza-politika berritzeari buruzko eztabaidarako 12 proposamen azaltzen dituen testua](#adierazpena)
-* [Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko](#adierazpena-sinatu)
+* [Euskal hizkuntza-politika berritzeari buruzko eztabaidarako 12 proposamen azaltzen dituen testua](#euskal-hizkuntza-politika-berritzeari-buruzko-eztabaidarako-12-proposamen-azaltzen-dituen-testua)
+* [Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko](#apunta-zaitez-hemen-kanpainari-buruzko-informazioa-jasotzeko)
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a>
 
@@ -103,7 +103,7 @@ Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak o
 
 ## Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfwq5N2NxDttnR74odIyTSBpgzcE-AFLVuR_epoPB0HxQyFlQ/viewform" class="pressbutton">Izena eman</a> 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a> 
 
 <meta property="og:title" content="adierazpena">
 <style>
