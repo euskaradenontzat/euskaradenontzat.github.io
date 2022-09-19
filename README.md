@@ -98,7 +98,7 @@ Azalpena: Hizkuntza eskakizunak, arreta elebidunerako beharrezkoak diren lanpost
 
 > **12. Proposamena**: Azterketa soziolinguistikoak egiteko garaian, klasearen eta jatorriaren ikuspegia sartzea, genero ikuspegiaz gain.
 
-Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak orientatzeko orduan laguntzen duen bezala, kontuan hartu behar dira klasearen eta jatorriaren ikuspegiak politika publikoak egiterakoan. Batez ere, hizkuntzarekin zerikusia duten politiketan, egiaztatzen dutenen eta ez dutenen artean zatiketa soziala saihesteko, desberdintasuna eta galtzaileen/irabazleen logika eragin baitezake gizarte-arrakala toxiko bat.
+Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak orientatzeko orduan laguntzen duen bezala, kontuan hartu behar dira klasearen eta jatorriaren ikuspegiak politika publikoak egiterakoan. Batez ere, hizkuntzarekin zerikusia duten politiketan, eskazinuna egiaztatzen dutenen eta ez dutenen artean zatiketa soziala saihesteko, desberdintasuna eta galtzaileen/irabazleen logika eragin baitezake gizarte-arrakala toxiko bat.
 
 ## Metodologia eta datuak
 
