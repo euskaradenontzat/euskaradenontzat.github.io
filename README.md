@@ -117,7 +117,7 @@ Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak o
 
   
 <meta property="og:title" content="adierazpena">
->>>>>>> 8a311eab0247db68e9045cb7ac169d5c7015ec2b
+
 <style>
 h1:nth-child(1) {
   visibility: hidden;
