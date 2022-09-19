@@ -7,8 +7,8 @@
 
 * [Laburpena](#laburpena)
 * [Euskal hizkuntza-politika berritzeari buruzko eztabaidarako 12 proposamen azaltzen dituen testua](#euskal-hizkuntza-politika-berritzeari-buruzko-eztabaidarako-12-proposamen-azaltzen-dituen-testua)
-* [Metodologia eta datuak](#metodologia-eta-datuak)
 * [Aktibitateak](#aktibitateak)
+* [Metodologia eta datuak](#metodologia-eta-datuak)
 * [Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko](#apunta-zaitez-hemen-kanpainari-buruzko-informazioa-jasotzeko)
 
 
