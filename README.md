@@ -7,9 +7,10 @@
 
 * [Laburpena](#laburpena)
 * [Euskal hizkuntza-politika berritzeari buruzko eztabaidarako 12 proposamen azaltzen dituen testua](#euskal-hizkuntza-politika-berritzeari-buruzko-eztabaidarako-12-proposamen-azaltzen-dituen-testua)
-* [Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko](#apunta-zaitez-hemen-kanpainari-buruzko-informazioa-jasotzeko)
 * [Metodologia eta datuak](#metodologia-eta-datuak)
 * [Aktibitateak](#aktibitateak)
+* [Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko](#apunta-zaitez-hemen-kanpainari-buruzko-informazioa-jasotzeko)
+
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a>
 
@@ -108,14 +109,16 @@ Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak o
 * [Udalherrien inguruak. Euskalgeo](http://www.euskalgeo.net/eu/deskargak/zonifikazio-administratiboa)
 
 
-## Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a> 
-
 ## Aktibitateak
 
 ----
 
+  
+## Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a> 
+
+  
 <meta property="og:title" content="adierazpena">
 <style>
 h1:nth-child(1) {
