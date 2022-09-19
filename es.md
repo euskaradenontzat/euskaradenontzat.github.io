@@ -2,13 +2,13 @@
 
 <img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat sin barreras">
 
-<h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008871;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span> </h1>
+<h1 id="euskaradenontzat" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008871;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span> </h1>
 
 * [Resumen](#resumen)
 * [Texto explicativo de 12 propuestas para debatir sobre la renovación de la política lingüística vasca](#texto-explicativo-de-12-propuestas-para-debatir-sobre-la-renovación-de-la-política-lingüística-vasca)
-* [Para recibir información sobre esta campaña, apúntate aquí ](#para-recibir-información-sobre-esta-campaña-apúntate-aquí)
 * [Actividades](#actividades)
 * [Metodología y datos](metod)
+* [Para recibir información sobre esta campaña, apúntate aquí ](#para-recibir-información-sobre-esta-campaña-apúntate-aquí)
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Recibir información</a>
 
@@ -95,13 +95,7 @@ Explicación: Los perfiles como requisito en los puestos de trabajo necesarios p
  
 > **Propuesta 12**: Incluir visión de clase y origen, además de la ya incorporada de género, a la hora de realizar estudios sociolingüísticos.
 
-Explicación: De igual manera que la perspectiva de género ayuda a la hora de orientar las políticas públicas para tratar de lograr una plena igualdad, se deben de tomar en cuenta las perspectivas de clase y origen a la hora de realizar las políticas públicas. Especialmente en aquellas que tengan que ver con el idioma, para evitar una división social dentro de la ciudadanía vasca entre los que acreditan y los que no, que puede provocar desigualdad y una lógica de perdedores/ganadores, una tóxica brecha social.
-
-
-## Para recibir información sobre esta campaña, apúntate aquí 
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Recibir información</a> 
-
+Explicación: De igual manera que la perspectiva de género ayuda a la hora de orientar las políticas públicas para tratar de lograr una plena igualdad, se deben de tomar en cuenta las perspectivas de clase y origen a la hora de realizar las políticas públicas. Especialmente en aquellas que tengan que ver con el idioma, para evitar una división social dentro de la ciudadanía vasca entre los que acreditan perfil y los que no, que puede provocar desigualdad y una lógica de perdedores/ganadores, una tóxica brecha social.
 
 ## Actividades
 
@@ -114,7 +108,8 @@ Hora: 10:00h.
 La Bolsa. Cale Pelota 10. Bilbao.
 
 
-<meta property="og:title" content="adierazpena">
+
+<meta property="og:title" content="euskaradenontzat">
 <style>
 h1:nth-child(1) {
   visibility: hidden;

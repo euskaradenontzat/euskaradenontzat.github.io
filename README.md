@@ -3,13 +3,13 @@
 
 <img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat sin barreras">
 
-<h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008871;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span></h1>
+<h1 id="euskaradenontzat" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008871;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span></h1>
 
 * [Laburpena](#laburpena)
 * [Euskal hizkuntza-politika berritzeari buruzko eztabaidarako 12 proposamen azaltzen dituen testua](#euskal-hizkuntza-politika-berritzeari-buruzko-eztabaidarako-12-proposamen-azaltzen-dituen-testua)
-* [Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko](#apunta-zaitez-hemen-kanpainari-buruzko-informazioa-jasotzeko)
 * [Aktibitateak](#aktibitateak)
 * [Metodologia eta datuak](metod)
+* [Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko](#apunta-zaitez-hemen-kanpainari-buruzko-informazioa-jasotzeko)
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a>
 
@@ -98,17 +98,18 @@ Azalpena: Hizkuntza eskakizunak, arreta elebidunerako beharrezkoak diren lanpost
 
 > **12. Proposamena**: Azterketa soziolinguistikoak egiteko garaian, klasearen eta jatorriaren ikuspegia sartzea, genero ikuspegiaz gain.
 
-Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak orientatzeko orduan laguntzen duen bezala, kontuan hartu behar dira klasearen eta jatorriaren ikuspegiak politika publikoak egiterakoan. Batez ere, hizkuntzarekin zerikusia duten politiketan, egiaztatzen dutenen eta ez dutenen artean zatiketa soziala saihesteko, desberdintasuna eta galtzaileen/irabazleen logika eragin baitezake gizarte-arrakala toxiko bat.
-
-## Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a> 
+Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak orientatzeko orduan laguntzen duen bezala, kontuan hartu behar dira klasearen eta jatorriaren ikuspegiak politika publikoak egiterakoan. Batez ere, hizkuntzarekin zerikusia duten politiketan, eskazinuna egiaztatzen dutenen eta ez dutenen artean zatiketa soziala saihesteko, desberdintasuna eta galtzaileen/irabazleen logika eragin baitezake gizarte-arrakala toxiko bat.
 
 ## Aktibitateak
 
 <img src="img/221008_aktibitatea_01_eu.png" alt="cartel actividad 10 octubre 2022" width="500">
 
-<meta property="og:title" content="adierazpena">
+## Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a> 
+
+
+<meta property="og:title" content="euskaradenontzat">
 <style>
 h1:nth-child(1) {
   visibility: hidden;
