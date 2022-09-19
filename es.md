@@ -6,9 +6,9 @@
 
 * [Resumen](#resumen)
 * [Texto explicativo de 12 propuestas para debatir sobre la renovación de la política lingüística vasca](#texto-explicativo-de-12-propuestas-para-debatir-sobre-la-renovación-de-la-política-lingüística-vasca)
-* [Para recibir información sobre esta campaña, apúntate aquí ](#para-recibir-información-sobre-esta-campaña-apúntate-aquí)
-* [Metodología y datos](#metodología-y-datos)
 * [Actividades](#actividades)
+* [Metodología y datos](#metodología-y-datos)
+* [Para recibir información sobre esta campaña, apúntate aquí ](#para-recibir-información-sobre-esta-campaña-apúntate-aquí)
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Recibir información</a>
 
@@ -98,10 +98,6 @@ Explicación: Los perfiles como requisito en los puestos de trabajo necesarios p
 Explicación: De igual manera que la perspectiva de género ayuda a la hora de orientar las políticas públicas para tratar de lograr una plena igualdad, se deben de tomar en cuenta las perspectivas de clase y origen a la hora de realizar las políticas públicas. Especialmente en aquellas que tengan que ver con el idioma, para evitar una división social dentro de la ciudadanía vasca entre los que acreditan perfil y los que no, que puede provocar desigualdad y una lógica de perdedores/ganadores, una tóxica brecha social.
 
 
-## Para recibir información sobre esta campaña, apúntate aquí 
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Recibir información</a> 
-
 ## Metodología y datos
 
 * [Población de la C.A. de Euskadi por el municipio de residencia, según el sexo y la lengua hablada en casa. Eustat. 2016](https://www.eustat.eus/elementos/ele0014700/poblacion-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-sexo-y-la-lengua-hablada-en-casa/tbl0014755_c.html)
@@ -119,6 +115,10 @@ Explicación: De igual manera que la perspectiva de género ayuda a la hora de o
 Hora: 10:00h.
 La Bolsa. Cale Pelota 10. Bilbao.
 
+ 
+ ## Para recibir información sobre esta campaña, apúntate aquí 
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Recibir información</a> 
 
 <meta property="og:title" content="adierazpena">
 <style>
