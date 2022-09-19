@@ -105,6 +105,7 @@ Explicación: De igual manera que la perspectiva de género ayuda a la hora de o
 * [Perfiles lingüísticos en instituciones reguladas por el Decreto 86/1997](https://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE:6420429909286::NO:RP:P18_ID,P18_EXPAND:65213,N&p_lang=es)
 * [Conornos de municipios. Euskalgeo](http://www.euskalgeo.net/es/descargas/zonificacion-administrativa)
 
+ 
 ## Actividades
 
 ### Presentación de la actividad
@@ -116,7 +117,7 @@ Hora: 10:00h.
 La Bolsa. Cale Pelota 10. Bilbao.
 
  
- ## Para recibir información sobre esta campaña, apúntate aquí 
+## Para recibir información sobre esta campaña, apúntate aquí 
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Recibir información</a> 
 
