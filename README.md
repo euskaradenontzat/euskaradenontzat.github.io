@@ -78,13 +78,13 @@ Era berean, lanpostu askok maila asimetrikoak behar dituzte beren eginkizunak be
 
 ##### C.II.- Hizkuntza-eskakizuna baldintza gisa
 
-**8. Proposamena**: Egoera soziolinguistiko desberdinak eta hizkuntza ikuspegidun zerbitzuen benetako eskariaren neurketa kontuan hartzea, derrigorrezko hizkuntza eskakizuna duten lanpostuen ehunekoa ezartzeko, EAEko administrazioen zerbitzu publikoetan eta Euskadiko Estatuko Administrazio Orokorrean herritarren arreta bermatzeko, bai zuzeneko prestazioetan, bai kontratu publikoetan.
+**8. Proposamena**: Egoera soziolinguistiko desberdinak eta hizkuntza ikuspegidun zerbitzuen benetako eskariaren neurketa kontuan hartzea, derrigorrezko hizkuntza eskakizuna duten lanpostuen ehunekoa ezartzeko, administrazioen zerbitzu publikoetan herritarren arreta bermatzeko, bai zuzeneko prestazioetan, bai kontrata publikoetan.
 
 > **9. Proposamena**: Euskadiko Estatuko Administrazio Orokorrean arreta elebiduna bermatzea, Euskararen erabilera normalizatzeko 10/1982 Oinarrizko Legearen hirugarren xedapen gehigarria betez.
 
 > **10. Proposamena**: Lanpostuetan eska daitezkeen euskara mailak ezartzea, eginkizunen azterketaren arabera, 47/2012 Dekretuan eskatutako ikasketa maila bakoitzerako ezarritako salbuespenak hasierako erreferentziatzat hartuta, eta C2-HE4 mugatuz lanpostuaren funtsezko edukia hizkuntza denerako (itzulpena, hizkuntza-normalizazioa).
 
-Azalpena: Administrazio publikoaren eginbeharra da (bai euskal erakundeena, bai Euskadiko Estatuko Administrazio Orokor ez betetzailearena) nahi dutenei beren lurraldeko hizkuntza ofizialetan arreta ematea, eta, horretarako, hizkuntza-eskakizunak tresna baliagarriak dira. Hala ere, hori bermatzeko ez da beharrezkoa Azpeitiko edo Gasteizko anbulatorioetan derrigorrezko profila duten lanpostuen proportzio bera, pazienteen eskaria oso bestelakoa baita. Hizkuntza eskakizunek hizkuntza hautaketaren berme proportzionala izan behar dute, eta ez dira erabili behar funtzio publikoan sartzeko justifikaziorik gabeko oztopo gisa (are gehiago helduen % 15-20k soilik duenean egiaztatuta normalean eskatzen diren mailak).
+Azalpena: Administrazio publikoaren eginbeharra da, bai euskal erakundeena, bai Euskadiko Estatuko Administrazio Orokor ez betetzailearena, nahi dutenei beren lurraldeko hizkuntza ofizialetan arreta ematea, eta, horretarako, hizkuntza-eskakizunak tresna baliagarriak dira. Hala ere, hori bermatzeko ez da beharrezkoa Azpeitiko edo Gasteizko anbulatorioetan derrigorrezko profila duten lanpostuen proportzio bera, pazienteen eskaria oso bestelakoa baita. Hizkuntza eskakizunek hizkuntza hautaketaren berme proportzionala izan behar dute, eta ez dira erabili behar funtzio publikoan sartzeko justifikaziorik gabeko oztopo gisa (are gehiago helduen % 15-20k soilik duenean egiaztatuta normalean eskatzen diren mailak).
 
 Euskadiko Estatuko Administrazio Orokorrak ere elebitasuna errespetatu behar du, eta hizkuntza-koofizialtasuna aplikatu, Europako Kontseiluko Hizkuntza Gutxituen Europako Gutuneko adituek behin eta berriz gogorarazi duten bezala.
 
