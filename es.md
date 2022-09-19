@@ -100,8 +100,6 @@ Explicación: De igual manera que la perspectiva de género ayuda a la hora de o
  
 ## Actividades
 
-### Presentación de la actividad
-
 <img src="img/221008_aktibitatea_01_es.png" alt="cartel actividad 10 octubre 2022" width="500">
 
 **8 de octubre 2022**
