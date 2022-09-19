@@ -8,8 +8,14 @@
 * [Laburpena](#laburpena)
 * [Euskal hizkuntza-politika berritzeari buruzko eztabaidarako 12 proposamen azaltzen dituen testua](#euskal-hizkuntza-politika-berritzeari-buruzko-eztabaidarako-12-proposamen-azaltzen-dituen-testua)
 * [Aktibitateak](#aktibitateak)
+<<<<<<< HEAD
 * [Metodologia eta datuak](metod)
 * [Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko](#apunta-zaitez-hemen-kanpainari-buruzko-informazioa-jasotzeko)
+=======
+* [Metodologia eta datuak](#metodologia-eta-datuak)
+* [Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko](#apunta-zaitez-hemen-kanpainari-buruzko-informazioa-jasotzeko)
+
+>>>>>>> 8a311eab0247db68e9045cb7ac169d5c7015ec2b
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a>
 
@@ -104,12 +110,14 @@ Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak o
 
 <img src="img/221008_aktibitatea_01_eu.png" alt="cartel actividad 10 octubre 2022" width="500">
 
+
 ## Apunta zaitez hemen, kanpainari buruzko informazioa jasotzeko
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a> 
 
-
-<meta property="og:title" content="euskaradenontzat">
+  
+<meta property="og:title" content="adierazpena">
+>>>>>>> 8a311eab0247db68e9045cb7ac169d5c7015ec2b
 <style>
 h1:nth-child(1) {
   visibility: hidden;

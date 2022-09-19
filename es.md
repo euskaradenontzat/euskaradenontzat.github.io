@@ -97,6 +97,7 @@ Explicación: Los perfiles como requisito en los puestos de trabajo necesarios p
 
 Explicación: De igual manera que la perspectiva de género ayuda a la hora de orientar las políticas públicas para tratar de lograr una plena igualdad, se deben de tomar en cuenta las perspectivas de clase y origen a la hora de realizar las políticas públicas. Especialmente en aquellas que tengan que ver con el idioma, para evitar una división social dentro de la ciudadanía vasca entre los que acreditan perfil y los que no, que puede provocar desigualdad y una lógica de perdedores/ganadores, una tóxica brecha social.
 
+ 
 ## Actividades
 
 ### Presentación de la actividad
@@ -107,6 +108,10 @@ Explicación: De igual manera que la perspectiva de género ayuda a la hora de o
 Hora: 10:00h.
 La Bolsa. Cale Pelota 10. Bilbao.
 
+ 
+## Para recibir información sobre esta campaña, apúntate aquí 
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Recibir información</a> 
 
 
 <meta property="og:title" content="euskaradenontzat">
