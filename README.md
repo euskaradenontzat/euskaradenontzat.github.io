@@ -78,7 +78,7 @@ Era berean, lanpostu askok maila asimetrikoak behar dituzte beren eginkizunak be
 
 ##### C.II.- Hizkuntza-eskakizuna baldintza gisa
 
-**8. Proposamena**: Egoera soziolinguistiko desberdinak eta hizkuntza ikuspegidun zerbitzuen benetako eskariaren neurketa kontuan hartzea, derrigorrezko hizkuntza eskakizuna duten lanpostuen ehunekoa ezartzeko, administrazioen zerbitzu publikoetan herritarren arreta bermatzeko, bai zuzeneko prestazioetan, bai kontrata publikoetan.
+> **8. Proposamena**: Egoera soziolinguistiko desberdinak eta hizkuntza ikuspegidun zerbitzuen benetako eskariaren neurketa kontuan hartzea, derrigorrezko hizkuntza eskakizuna duten lanpostuen ehunekoa ezartzeko, administrazioen zerbitzu publikoetan herritarren arreta bermatzeko, bai zuzeneko prestazioetan, bai kontrata publikoetan.
 
 > **9. Proposamena**: Euskadiko Estatuko Administrazio Orokorrean arreta elebiduna bermatzea, Euskararen erabilera normalizatzeko 10/1982 Oinarrizko Legearen hirugarren xedapen gehigarria betez.
 
