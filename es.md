@@ -7,6 +7,7 @@
 * [Resumen](#resumen)
 * [Texto explicativo de 12 propuestas para debatir sobre la renovación de la política lingüística vasca](#texto-explicativo-de-12-propuestas-para-debatir-sobre-la-renovación-de-la-política-lingüística-vasca)
 * [Actividades](#actividades)
+* [Noticias](not)
 * [Metodología y datos](metod)
 * [Para recibir información sobre esta campaña, apúntate aquí ](#para-recibir-información-sobre-esta-campaña-apúntate-aquí)
 
