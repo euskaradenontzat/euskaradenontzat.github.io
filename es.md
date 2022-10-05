@@ -35,8 +35,8 @@
 Explicación: Que toda persona residente en Euskadi que quiera aprender euskera (actualmente 35.000 estudiantes al año) tenga la posibilidad económica de hacerlo en vez de depender de la disposición y recursos que destine cada ayuntamiento. Es decir, la existencia de un marco común de HABE que facilite realizar dichos cursos de manera accesible en condiciones similares a la educación general.
 
  <figure>
-<a href="img/aprendizaje_euskltegis_habe_2009-2019_es.png" target="_blank"><img src="img/aprendizaje_euskltegis_habe_2009-2019_es_r.png" alt="La realidad del aprendizaje del euskera en los euskaltegis: niveles inicial y final cursados en HABE por cada estudiante en todo el período 2009/2019" style="width:50%;"></a>
-<figcaption>La realidad del aprendizaje del euskera en los euskaltegis: niveles inicial y final cursados en HABE por cada estudiante en todo el período 2009/2019</figcaption>
+<a href="img/aprendizaje_euskltegis_habe_2009-2019_es.png" target="_blank"><img src="img/aprendizaje_euskltegis_habe_2009-2019_es_r.png" title="Pulsa para ver a tamaño completo" alt="La realidad del aprendizaje del euskera en los euskaltegis: niveles inicial y final cursados en HABE por cada estudiante en todo el período 2009/2019" style="width:50%;"></a>
+<figcaption>La realidad del aprendizaje del euskera en los euskaltegis: niveles inicial y final cursados en HABE por cada estudiante en todo el período 2009/2019. <a href="img/aprendizaje_euskltegis_habe_2009-2019_es.png">Pulsa para ver a tamaño completo</a>.</figcaption>
 </figure> 
  
 ##### A.II.- Liberaciones (barrera del tiempo)
@@ -142,6 +142,7 @@ a {
 }
 figcaption{
    font-size:0.8em;
-   color:#888888;
+   color:#444444;
+   width:50%;
 }
 </style>
