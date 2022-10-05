@@ -46,8 +46,8 @@ Explicación: Que toda persona residente en Euskadi que quiera aprender euskera 
 Explicación: Así como la cuantía de la matrícula resulta condicionante a la hora de poder estudiar euskera, la disponibilidad de tiempo también lo es, especialmente para quienes están trabajando. A las horas del empleo remunerado se le suman las horas de trabajo doméstico, de cuidados, de ocio, dejando a muchas personas poco margen horario para poder asistir a los euskaltegis y EOIs. Además se necesita mucho trabajo individual en casa para poder avanzar en el aprendizaje.
 
 <figure>
-<a href="img/tabla_horas_es.jpeg" target="_blank"><img src="img/tabla_horas_es_r.png" title="FALTA TÍTULO" style="width:50%;"></a>
-<figcaption><!--Falta título a esta imagen--> <a href="img/tabla_horas_es.jpeg">Pulsa para ver a tamaño completo</a>.</figcaption>
+<a href="img/tabla_horas_es.jpeg" target="_blank"><img src="img/tabla_horas_es_r.png" title="Horas de enseñanza y horas de aprendizaje (teóricas)" style="width:50%;"></a>
+<figcaption>Horas de enseñanza y horas de aprendizaje (teóricas).<a href="img/tabla_horas_es.jpeg">Pulsa para ver a tamaño completo</a>.</figcaption>
 </figure> 
 
  
