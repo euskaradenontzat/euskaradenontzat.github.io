@@ -38,7 +38,7 @@
 
 Azalpena: Euskadin bizi den eta euskara ikasi nahi duen pertsona orok (gaur egun 35.000 ikasle urtero) horretarako aukera ekonomikoa izatea, udal bakoitzak eskaintzen dituen aukeren eta baliabideen araberakoa izan beharrean. Hau da, HABEren esparru komun bat izatea, ikastaro horiek hezkuntza orokorraren antzeko baldintzetan modu eskuragarrian egitea erraztuko duena.
 
-<img src="img/aprendizaje_euskltegis_habe_2009-2019_eus.png" alt="Euskararen ikaskuntzaren errealitatea euskaltegietan: HABEn egindako hasiera eta bukaera maila ikasle bakoitzeko 2009/2019 aldi osoan">
+<a href="img/aprendizaje_euskltegis_habe_2009-2019_eus.png" target="_blank"><img src="img/aprendizaje_euskltegis_habe_2009-2019_eus.png" alt="Euskararen ikaskuntzaren errealitatea euskaltegietan: HABEn egindako hasiera eta bukaera maila ikasle bakoitzeko 2009/2019 aldi osoan" style="width:35%;"></a>
 
 ##### A.II.- Liberazioak (denboraren oztopoa)
 
