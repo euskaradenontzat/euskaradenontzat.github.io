@@ -38,7 +38,10 @@
 
 Azalpena: Euskadin bizi den eta euskara ikasi nahi duen pertsona orok (gaur egun 35.000 ikasle urtero) horretarako aukera ekonomikoa izatea, udal bakoitzak eskaintzen dituen aukeren eta baliabideen araberakoa izan beharrean. Hau da, HABEren esparru komun bat izatea, ikastaro horiek hezkuntza orokorraren antzeko baldintzetan modu eskuragarrian egitea erraztuko duena.
 
-<a href="img/aprendizaje_euskltegis_habe_2009-2019_eus.png" target="_blank"><img src="img/aprendizaje_euskltegis_habe_2009-2019_eus.png" alt="Euskararen ikaskuntzaren errealitatea euskaltegietan: HABEn egindako hasiera eta bukaera maila ikasle bakoitzeko 2009/2019 aldi osoan" style="width:35%;"></a>
+<figure>
+<a href="img/aprendizaje_euskltegis_habe_2009-2019_eus.png" target="_blank"><img src="img/aprendizaje_euskltegis_habe_2009-2019_eus_r.png" alt="Euskararen ikaskuntzaren errealitatea euskaltegietan: HABEn egindako hasiera eta bukaera maila ikasle bakoitzeko 2009/2019 aldi osoan" style="width:50%;"></a>
+<figcaption>Euskararen ikaskuntzaren errealitatea euskaltegietan: HABEn egindako hasiera eta bukaera maila ikasle bakoitzeko 2009/2019 aldi osoanñ <a href="img/aprendizaje_euskltegis_habe_2009-2019_eus.png">Sakatu tamaina osoan ikusteko</a>.</figcaption>
+</figure> 
 
 ##### A.II.- Liberazioak (denboraren oztopoa)
 
@@ -46,7 +49,10 @@ Azalpena: Euskadin bizi den eta euskara ikasi nahi duen pertsona orok (gaur egun
 
 Azalpena: Matrikularen zenbatekoa baldintzagarria den bezala euskara ikasteko orduan, denbora izatea ere baldintzagarria da, batez ere lanean ari direnentzat. Ordaindutako enpleguaren orduei etxeko laneko, zaintzako eta aisialdiko orduak gehitzen zaizkie, eta pertsona askori ordutegi tarte txikia uzten zaie euskaltegietara eta HEOetara joan ahal izateko. Gainera, banakako lan asko egin behar da etxean, ikaskuntzan aurrera egin ahal izateko.
 
-
+<figure>
+<a href="img/tabla_horas_eus.jpeg" target="_blank"><img src="img/tabla_horas_eus_r.png" title="FALTA TÍTULO" style="width:50%;"></a>
+<figcaption><!--Falta título a esta imagen--> <a href="img/tabla_horas_eus.jpeg">Sakatu tamaina osoan ikusteko</a>.</figcaption>
+</figure> 
 
 #### B.- Ezagutza egiaztatzeko sistema berriak, makro-errebaliden monopolioa gaindituz
 
