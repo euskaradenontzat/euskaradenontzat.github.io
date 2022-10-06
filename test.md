@@ -106,7 +106,7 @@ Explicación: Los perfiles como requisito en los puestos de trabajo necesarios p
 
 Explicación: De igual manera que la perspectiva de género ayuda a la hora de orientar las políticas públicas para tratar de lograr una plena igualdad, se deben de tomar en cuenta las perspectivas de clase y origen a la hora de realizar las políticas públicas. Especialmente en aquellas que tengan que ver con el idioma, para evitar una división social dentro de la ciudadanía vasca entre los que acreditan perfil y los que no, que puede provocar desigualdad y una lógica de perdedores/ganadores, una tóxica brecha social.
 
-<iframe style='width: 100%; height: 700px; max-width: none; overflow: hidden; border: 1px solid white;' src='https://numeroteca.org/euslang/par/index.html'></iframe>
+<iframe style="width: 100%; height:8700px; max-width: none; overflow: hidden; border: 1px solid white;" src="https://numeroteca.org/euslang/par/index.html"></iframe>
  
 ## Actividades
 
