@@ -69,7 +69,6 @@ Azalpena: Hezkuntza sistema osoan normala den bezala, euskara maila baxuenen ziu
 Azalpena: Ikasketa ofizialen zati bat euskaraz egiteak euskararen ezagutza egiaztatzeko aukera ematen duen bezala (47/2012 Dekretua), oposizio azterketak euskaraz egitea eta lanpostuaren jardun profesionalaren euskaraz egin izanaraen ziurtagiriak (profesionaltasun-ziurtagiriak) ere ezagutza egiaztatzeko modu gisa erabili beharko lirateke.
 
 
-
 #### C.- Ezagutza-aniztasun guztia hizkuntza-eskakizun malguekin aitortzea
 
 ##### C.I.- Profil berriak aitortzea: ahozkoa, belarriprest, A1, A2
@@ -95,6 +94,11 @@ Era berean, lanpostu askok maila asimetrikoak behar dituzte beren eginkizunak be
 Azalpena: Administrazio publikoaren eginbeharra da, bai euskal erakundeena, bai Euskadiko Estatuko Administrazio Orokor ez betetzailearena, nahi dutenei beren lurraldeko hizkuntza ofizialetan arreta ematea, eta, horretarako, hizkuntza-eskakizunak tresna baliagarriak dira. Hala ere, hori bermatzeko ez da beharrezkoa Azpeitiko edo Gasteizko anbulatorioetan derrigorrezko profila duten lanpostuen proportzio bera, pazienteen eskaria oso bestelakoa baita. Hizkuntza eskakizunek hizkuntza hautaketaren berme proportzionala izan behar dute, eta ez dira erabili behar funtzio publikoan sartzeko justifikaziorik gabeko oztopo gisa (are gehiago helduen % 15-20k soilik duenean egiaztatuta normalean eskatzen diren mailak).
 
 Euskadiko Estatuko Administrazio Orokorrak ere elebitasuna errespetatu behar du, eta hizkuntza-koofizialtasuna aplikatu, Europako Kontseiluko Hizkuntza Gutxituen Europako Gutuneko adituek behin eta berriz gogorarazi duten bezala.
+
+<figure>
+<a href="vis/usos_eus/" target="_blank"><img src="img/usos_eus_r.png" title="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria)" title="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria)" style="width:50%;"></a>
+<figcaption>Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria).<a href="vis/usos_eus/">Sakatu tamaina osoan ikusteko</a>.</figcaption>
+</figure> 
 
 ##### C.III.- Hizkuntza-eskakizuna merezimendu gisa
 

@@ -94,6 +94,12 @@ Explicación: El deber de la administración pública (tanto de las institucione
 
 La AGE en Euskadi también debe respetar el bilingüismo y aplicar la cooficialidad lingüística, tal y como lo han recordado reiteradamente los expertos de la Carta europea de lenguas minoritarias, del Consejo de Europa. 
 
+<figure>
+<a href="vis/usos_es/" target="_blank"><img src="img/usos_es_r.png" title="
+Uso declarado del euskera, y exigencia legal y práctica de perfiles lingüísticos en cada municipio (seleccionable por tamaño de población y territorio histórico)" title="Uso declarado del euskera, y exigencia legal y práctica de perfiles lingüísticos en cada municipio (seleccionable por tamaño de población y territorio histórico) " style="width:50%;"></a>
+<figcaption>Uso declarado del euskera, y exigencia legal y práctica de perfiles lingüísticos en cada municipio (seleccionable por tamaño de población y territorio histórico) .<a href="vis/usos_es/">Pulsa para ver a tamaño completo</a>.</figcaption>
+</figure> 
+
 ##### C.III.- Perfil lingüístico como mérito proporcionado
 
 > **Propuesta 11**: Ponderar proporcionalmente la valoración del perfil lingüístico como mérito en el acceso a los puestos que no lo tienen como requisito, como una porcentaje del apartado de méritos de hasta el 15%.
