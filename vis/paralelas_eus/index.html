@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="es-ES">
+<script type="text/javascript">
+
+</script>
+
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Uso declarado del euskera, y exigencia legal y práctica de perfiles lingüísticos en cada municipio</title>
+
+<!-- source code based on https://bl.ocks.org/jasondavies/1341281 -->
+<meta charset="utf-8">
+<link href="style.css" rel="stylesheet">
+<!-- Bootstrap -->
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<!-- Fontawesome -->
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- generic meta -->
+<meta content="Montera34" name="author" />
+<meta content="@EusDenontzat" name="description" />
+<meta content="lengua, euskera" name="keywords" />
+<!-- facebook meta -->
+<meta property="og:title" content="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean" />
+<meta name="og:image" content="https://euskaradenontzat.github.io/img/logo_euskara-denontzat_p.png" />
+<meta property="og:url" content="https://euskaradenontzat.github.io/" />
+<!-- twitter meta -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@EusDenontzat">
+<meta property="twitter:site:id" content="137677992" />
+<meta name="twitter:title" content="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean" />
+<meta name="twitter:description" content="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean" />
+<meta name="twitter:creator" content="@mEusDenontzat">
+<meta name="twitter:image" content="https://euskaradenontzat.github.io/img/logo_euskara-denontzat_p.png" />
+
+<link type="image/x-icon" href="favicon.ico" rel="shortcut icon" />
+<link type="image/png" sizes="256x256" href="favicon.png" rel="icon" />
+</head>
+<body>
+
+<main>
+	<div class="row">
+		<div class="col-md-6">
+			<span style="font-size:1.2em;font-weight:bold;">Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria)</span>
+		</div>
+		<div class="col-md-3">
+			<p class="bg-warning"><small><span class="glyphicon glyphicon glyphicon-hand-up" aria-hidden="true"></span> Pasa kurtsorea udalerri bakoitzari buruzko informazio gehiago eskuratzeko.</small></p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-6 col-xs-12">
+			<div class="legend">
+				<p><span class="square square_araba"></span>Araba</p>
+				<p><span class="square square_gipuzkoa"></span>Gipuzkoa</p>
+				<p><span class="square square_bizkaia"></span>Bizkaia</p>
+				<!--p><span class="square square_media"></span>Media (ponderada)</p-->
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-3 col-sm-4 col-xs-">
+			<div class="dropdown text-left">
+				<button class="btn btn-default dropdown-toggle btn-xs" type="button" id="dropdownMenu1" 
+  				data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" style="background-color:#FF0;">Hautatu udalerria <span class="caret"></span></button>
+				<ul id="legend" class="dropdown-menu" aria-labelledby="dropdownMenu1">
+				</ul>
+			</div>
+			<div id="zona"><p>Udalerri guztiak</p></div>
+			<div id="vis"></div>
+		</div>
+		<div class="col-md-3 col-sm-4 col-xs-6">
+			<div class="dropdown text-left">
+				<button class="btn btn-default dropdown-toggle btn-xs" type="button" id="dropdownMenu1" 
+  				data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" style="background-color:#FF0;">Hautatu udalerria <span class="caret"></span></button>
+				<ul id="legend2" class="dropdown-menu" aria-labelledby="dropdownMenu1">
+				</ul>
+			</div>
+			<div id="zona2"><p>Udalerri guztiak</p></div>
+			<div id="vis2"></div>
+		</div>
+		<div class="col-md-3 col-sm-4 col-xs-6">
+			<div class="dropdown text-left">
+				<button class="btn btn-default dropdown-toggle btn-xs" type="button" id="dropdownMenu1" 
+  				data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" style="background-color:#FF0;">Hautatu udalerria <span class="caret"></span></button>
+				<ul id="legend3" class="dropdown-menu" aria-labelledby="dropdownMenu1">
+				</ul>
+			</div>
+			<div id="zona3"><p>Udalerri guztiak</p></div>
+			<div id="vis3"></div>
+		</div>
+	</div>
+
+
+	<div class="row vis-body">
+		<div class="col-md-12 pull-right">
+			<p><small>Datuak: <a href="https://euskaradenontzat.github.io/metod">Eustat eta Eusko Legebiltzarra</a>. Grafikoak: <a href="https://euskaradenontzat.github.io">Euskara denontzat</a></p>
+		</div>
+	</div>
+</main>
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/d3.v3.min.js"></script>
+<script type="text/javascript" src="js/lang_es.js"></script>
+<script type="text/javascript" src="dataviz.js"></script>
+<script type="text/javascript" src="dataviz_2.js"></script>
+<script type="text/javascript" src="dataviz_3.js"></script>
+<!--script type="text/javascript" src="stats.js"></script-->
+</body>
