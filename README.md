@@ -95,9 +95,17 @@ Azalpena: Administrazio publikoaren eginbeharra da, bai euskal erakundeena, bai 
 
 Euskadiko Estatuko Administrazio Orokorrak ere elebitasuna errespetatu behar du, eta hizkuntza-koofizialtasuna aplikatu, Europako Kontseiluko Hizkuntza Gutxituen Europako Gutuneko adituek behin eta berriz gogorarazi duten bezala.
 
+|Eusko Jaurlaritzaren herritarren arretan hizkuntza aukeratzeko eskubidea errespetatzea  | |
+|----:|----:|
+|Herritarrei arreta kopurua guztira Zuzenean zerbitzuan, hizkuntza erregistroarekin   |730.657|
+|Herritarrei arreta kopurua euskeraz Zuzenean zerbitzuan   |70.261|
+|Herritarren kexak Eusko Jaurlaritza osoan arreta euskeraz ez emateagatik, Behatokiaren arabera   |243|
+|Herritarren kexak Eusko Jaurlaritza osoan arreta euskeraz ez emateagatik, Elebideren arabera (%29 ahozkoak=26, bestelakoak web/kartelak/idatziak)  |90|
+|Datuak: Zuzenean, Elebide y Behatokia. 2020  | |
+
 <figure>
-<a href="vis/usos_eus/" target="_blank"><img src="img/usos_eus_r.png" title="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria)" title="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria)" style="width:50%;"></a>
-<figcaption>Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria).<a href="vis/usos_eus/">Sakatu tamaina osoan ikusteko</a>.</figcaption>
+<a href="vis/profilak_eus/" target="_blank"><img src="img/usos_eus_r.png" title="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria)" title="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria)" style="width:50%;"></a>
+<figcaption>Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria).<a href="vis/profilak_eus/">Sakatu tamaina osoan ikusteko</a>.</figcaption>
 </figure> 
 
 ##### C.III.- Hizkuntza-eskakizuna merezimendu gisa
