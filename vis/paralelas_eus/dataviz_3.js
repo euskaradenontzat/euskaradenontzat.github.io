@@ -183,8 +183,8 @@ d3.tsv("data/municipios_data_3.tsv", function(error, zonas3) {
 	function showTooltip(d) {
 		// Fill the tooltip
 		tooltip.html(
-			"<div class='table-responsive'><h4><strong>" + d.zona + "</strong> (Población: " + d.poblacion + ", " + d.provincia[0].toUpperCase() + d.provincia.substring(1) + ")</h4>" +
-					"<table class='table table-condensed table-striped'><thead><tr><td>" + hablaeuskera + "</td><td style='text-align:right'><b>" + d.habitual_euskera_per + "%</b> </td></tr><tr><td>" + puestoslegales + "</td><td style='text-align:right'><b>" + d.puestos_normativa_per+ "%</b> </td></tr><tr><td>" + puestosreales + "</td>" +
+			"<div class='table-responsive'><h4><strong>" + d.zona + "</strong> (Biztanleria: " + d.poblacion + ", " + d.provincia[0].toUpperCase() + d.provincia.substring(1) + ")</h4>" +
+					"<table class='table table-condensed table-striped'><thead><tr><td>" + "Euskaraz hitz egin %" + "</td><td style='text-align:right'><b>" + d.habitual_euskera_per + "%</b> </td></tr><tr><td>" + "Derrigorrezko hizkuntza-eskakizunak dituzten lanpostuak (legezko %)" + "</td><td style='text-align:right'><b>" + d.puestos_normativa_per+ "%</b> </td></tr><tr><td>" + "Derrigorrezko hizkuntza-eskakizunak dituzten lanpostuak (% praktikan)" + "</td>" +
 					"<td style='text-align:right'><b>" + d.puestos_practica_per+ "%</b> </td></tr>" +
 					
 						/*		"<div class='table-responsive'><h4><strong>" + d.zona + "</strong> (Población: " + d.poblacion + ", " + d.provincia + ")</h4>" +
