@@ -92,7 +92,15 @@ Asimismo muchos puestos de trabajo requieren niveles asimétricos para desarroll
 
 Explicación: El deber de la administración pública (tanto de las instituciones vascas, como de la incumplidora Administración General del Estado en Euskadi) es el de atender a quienes lo deseen en los idiomas oficiales en su territorio, y para ello los perfiles lingüísticos son un instrumento útil. Sin embargo para garantizarlo no es necesaria la misma proporción de puestos con perfil obligatorio en un ambulatorio de Azpeitia o de Vitoria-Gasteiz, porque la demanda de los pacientes es considerablemente distinta. Y los perfiles deben ser una garantía proporcionada de la elección lingüística, y no ser utilizada como una barrera injustificada para el acceso a la función pública (más aún cuando sólo un 15-20% de la población adulta tiene acreditado los niveles generalmente exigidos).
 
-La AGE en Euskadi también debe respetar el bilingüismo y aplicar la cooficialidad lingüística, tal y como lo han recordado reiteradamente los expertos de la Carta europea de lenguas minoritarias, del Consejo de Europa. 
+La AGE en Euskadi también debe respetar el bilingüismo y aplicar la cooficialidad lingüística, tal y como lo han recordado reiteradamente los expertos de la Carta europea de lenguas minoritarias, del Consejo de Europa.
+
+|Respeto del derecho a la elección lingüística en la atención ciudadana del Gobierno Vasco  | |
+|----:|----:|
+|Número de atenciones ciudadanas totales en el servicio Zuzenean, con registro de idioma   |730.657|
+|Número de atenciones ciudadanas en euskera en el servicio Zuzenean   |70.261|
+|Quejas ciudadanas por no atención en euskera en todo Gobierno Vasco según Behatokia   |243|
+|Quejas ciudadanas por no atención en euskera en todo Gobierno Vasco según Elebide (29% orales=26, resto web/cartelería/escritos)   |90|
+|Datos: Zuzenean, Elebide y Behatokia. 2020  |
 
 <figure>
 <a href="vis/usos_es/" target="_blank"><img src="img/usos_es_r.png" title="
