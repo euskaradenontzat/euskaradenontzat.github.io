@@ -94,6 +94,12 @@ Explicación: El deber de la administración pública (tanto de las institucione
 
 La AGE en Euskadi también debe respetar el bilingüismo y aplicar la cooficialidad lingüística, tal y como lo han recordado reiteradamente los expertos de la Carta europea de lenguas minoritarias, del Consejo de Europa. 
 
+<figure>
+<a href="vis/usos_es/" target="_blank"><img src="img/usos_es_r.png" title="
+Uso declarado del euskera, y exigencia legal y práctica de perfiles lingüísticos en cada municipio (seleccionable por tamaño de población y territorio histórico)" title="Uso declarado del euskera, y exigencia legal y práctica de perfiles lingüísticos en cada municipio (seleccionable por tamaño de población y territorio histórico) " style="width:50%;"></a>
+<figcaption>Uso declarado del euskera, y exigencia legal y práctica de perfiles lingüísticos en cada municipio (seleccionable por tamaño de población y territorio histórico) .<a href="vis/usos_es/">Pulsa para ver a tamaño completo</a>.</figcaption>
+</figure> 
+
 ##### C.III.- Perfil lingüístico como mérito proporcionado
 
 > **Propuesta 11**: Ponderar proporcionalmente la valoración del perfil lingüístico como mérito en el acceso a los puestos que no lo tienen como requisito, como una porcentaje del apartado de méritos de hasta el 15%.
@@ -106,8 +112,6 @@ Explicación: Los perfiles como requisito en los puestos de trabajo necesarios p
 
 Explicación: De igual manera que la perspectiva de género ayuda a la hora de orientar las políticas públicas para tratar de lograr una plena igualdad, se deben de tomar en cuenta las perspectivas de clase y origen a la hora de realizar las políticas públicas. Especialmente en aquellas que tengan que ver con el idioma, para evitar una división social dentro de la ciudadanía vasca entre los que acreditan perfil y los que no, que puede provocar desigualdad y una lógica de perdedores/ganadores, una tóxica brecha social.
 
-<iframe style="width: 100%; height:8700px; max-width: none; overflow: hidden; border: 1px solid white;" src="https://numeroteca.org/euslang/par/index.html"></iframe>
- 
 ## Actividades
 
 ### Presentación de la actividad
