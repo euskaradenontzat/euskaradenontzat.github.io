@@ -101,7 +101,7 @@ Euskadiko Estatuko Administrazio Orokorrak ere elebitasuna errespetatu behar du,
 |Herritarrei arreta kopurua euskeraz Zuzenean zerbitzuan   |70.261|
 |Herritarren kexak Eusko Jaurlaritza osoan arreta euskeraz ez emateagatik, Behatokiaren arabera   |243|
 |Herritarren kexak Eusko Jaurlaritza osoan arreta euskeraz ez emateagatik, Elebideren arabera<br>(%29 ahozkoak, bestelakoak web/kartelak/idatziak)  |90<br> 30 Lakua eta delegaritzak|
-|Datuak: Zuzenean, Elebide y Behatokia. 2020  | |
+|Datuak: Zuzenean, Behatokia eta Elebide. 2020  | |
 
 <figure>
 <a href="vis/profilak_eus/" target="_blank"><img src="img/usos_eus_r.png" title="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria)" title="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria)" style="width:50%;"></a>
