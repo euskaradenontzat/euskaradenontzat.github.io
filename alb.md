@@ -14,6 +14,7 @@
 * ['Euskara denontzat' propone reformar el sistema lingüístico vasco: sólo el 12% de la población adulta tiene un B2 o superior. Hordago-El Salto 22/09/2022.](https://www.elsaltodiario.com/euskera/euskara-denontzat-propone-reformar-el-sistema-de-examenes-y-perfiles-linguisticos)
 * [Una nueva plataforma pide permisos retribuidos para que trabajadores del sector privado estudien euskera. Eldiario.es Euskadi 22/09/2022.](https://www.eldiario.es/euskadi/nueva-plataforma-pide-permisos-retribuidos-trabajadores-sector-privado-estudien-euskera_1_9557188.html)
 * <a href="mp3/CronicaEuskadi.RadioEuskadi.mp3">Entrevista de Dani Álvarez en Crónica Euskadi de Radio Euskadi 23/09/2022.</a>
+* [Entrevista en Hora 14 Euskadi. Cadena SER 08/10/2022.](https://play.cadenaser.com/audio/1665226858595/)
 
 <meta property="og:title" content="euskaradenontzat">
 <style>
