@@ -51,7 +51,7 @@ Azalpena: Matrikularen zenbatekoa baldintzagarria den bezala euskara ikasteko or
 
 <figure>
 <a href="img/tabla_horas_eus.jpeg" target="_blank"><img src="img/tabla_horas_eus_r.png" title="Irakastorduak eta ikastorduak (teorikoak)" style="width:50%;"></a>
-<figcaption>Irakastorduak eta ikastorduak (teorikoak). <a href="img/tabla_horas_eus.jpeg">Sakatu tamaina osoan ikusteko</a>.</figcaption>
+<figcaption>Irakastorduak eta ikastorduak HABE (teorikoak). <a href="img/tabla_horas_eus.jpeg">Sakatu tamaina osoan ikusteko</a>.</figcaption>
 </figure> 
 
 #### B.- Ezagutza egiaztatzeko sistema berriak, makro-errebaliden monopolioa gaindituz
@@ -97,11 +97,11 @@ Euskadiko Estatuko Administrazio Orokorrak ere elebitasuna errespetatu behar du,
 
 |Eusko Jaurlaritzaren herritarren arretan hizkuntza aukeratzeko eskubidea errespetatzea  | |
 |----:|----:|
-|Herritarrei arreta kopurua guztira Zuzenean zerbitzuan, hizkuntza erregistroarekin   |730.657|
+|Herritarrei arreta kopurua guztira hizkuntza erregistroarekin Zuzenean zerbitzuan   |730.657|
 |Herritarrei arreta kopurua euskeraz Zuzenean zerbitzuan   |70.261|
 |Herritarren kexak Eusko Jaurlaritza osoan arreta euskeraz ez emateagatik, Behatokiaren arabera   |243|
-|Herritarren kexak Eusko Jaurlaritza osoan arreta euskeraz ez emateagatik, Elebideren arabera<br>(%29 ahozkoak=26, bestelakoak web/kartelak/idatziak)  |90|
-|Datuak: Zuzenean, Elebide y Behatokia. 2020  | |
+|Herritarren kexak Eusko Jaurlaritza osoan arreta euskeraz ez emateagatik, Elebideren arabera<br>(%29 ahozkoak, bestelakoak web/kartelak/idatziak)  |90<br> 30 Lakua eta delegaritzak|
+|Datuak: Zuzenean, Behatokia eta Elebide. 2020  | |
 
 <figure>
 <a href="vis/profilak_eus/" target="_blank"><img src="img/usos_eus_r.png" title="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria)" title="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria)" style="width:50%;"></a>

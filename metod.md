@@ -10,6 +10,10 @@
 * [Euskal AEko 2 urteko eta gehiagoko biztanleria, bizi-udalerriareni jarraiki, euskara maila globalaren arabera. 2016](https://eu.eustat.eus/elementos/ele0014600/ti_43-poblacion-de-2-y-mas-anos-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-nivel-global-de-euskara-2016/tbl0014689_e.html)
 * [86/1997 Dekretuak araututako erakundeetako hizkuntza eskakizunak](https://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE:6420429909286::NO:RP:P18_ID,P18_EXPAND:65213,N&p_lang=eu)
 * [Udalherrien inguruak. Euskalgeo](http://www.euskalgeo.net/eu/deskargak/zonifikazio-administratiboa)
+* [Helduen euskalduntzearen azterketa. 2009-2010 / 2018-2019. HABE](https://www.ikasten.ikasbil.eus/mod/habecms/view.php/irakasbil/argitalpenak/e-hizpide_monografiak-sei)
+* [Zuzenean herritarrentzako zerbitzuaren jarduerari buruzko 2020ko txostena](https://www.euskadi.eus/contenidos/informacion/informes_mensuales_zuzenean/eu_def/adjuntos/2020/Txostenak_jarduera_2020_urteko_v1.pdf)
+* [Elebide. 2020ko Jarduera-txostena](https://www.euskadi.eus/contenidos/informacion/elebide_servicios/eu_edukia/adjuntos/ELEBIDE-2020-eus.pdf)
+* [Behatokia. Hizkuntza eskubideen egoera 2020](https://behatokia.eus/media/pdf/Hizkuntza_Eskubideen_Egoera_2020.pdf)
 
 
 ## Gráficos: metodología y datos
@@ -18,6 +22,10 @@
 * [Población de 2 y más años de la C.A. de Euskadi por el municipio de residencia, según el nivel global de euskara. Eustat. 2016](https://www.eustat.eus/elementos/ele0014600/43-poblacion-de-2-y-mas-anos-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-nivel-global-de-euskara/tbl0014689_c.html)
 * [Perfiles lingüísticos en instituciones reguladas por el Decreto 86/1997](https://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE:6420429909286::NO:RP:P18_ID,P18_EXPAND:65213,N&p_lang=es)
 * [Contornos de municipios. Euskalgeo](http://www.euskalgeo.net/es/descargas/zonificacion-administrativa)
+* [Estudio de la euskaldunización de adultos. 2009-2010 / 2018-2019. HABE (en euskera)](https://www.ikasten.ikasbil.eus/mod/habecms/view.php/irakasbil/argitalpenak/e-hizpide_monografiak-sei)
+* [Informe de actividad del servicio de atención a la ciudadanía Zuzenean Informe anual 2020](https://www.euskadi.eus/contenidos/informacion/informes_mensuales_zuzenean/es_def/adjuntos/2020/Informes_actividad_2020_anual_v1.pdf)
+* [Elebide. Memoria de actividad 2020](https://www.euskadi.eus/contenidos/informacion/elebide_servicios/es_edukia/adjuntos/ELEBIDE-2020-cas.pdf)
+* [Behatokia. La situación de los derechos lingüísticos 2020 (en euskera)](https://behatokia.eus/media/pdf/Hizkuntza_Eskubideen_Egoera_2020.pdf)
 
 <meta property="og:title" content="euskaradenontzat">
 <style>

@@ -47,7 +47,7 @@ Explicación: Así como la cuantía de la matrícula resulta condicionante a la 
 
 <figure>
 <a href="img/tabla_horas_es.jpeg" target="_blank"><img src="img/tabla_horas_es_r.png" title="Horas de enseñanza y horas de aprendizaje (teóricas)" style="width:50%;"></a>
-<figcaption>Horas de enseñanza y horas de aprendizaje (teóricas).<a href="img/tabla_horas_es.jpeg">Pulsa para ver a tamaño completo</a>.</figcaption>
+<figcaption>Horas de enseñanza y horas de aprendizaje HABE (teóricas).<a href="img/tabla_horas_es.jpeg">Pulsa para ver a tamaño completo</a>.</figcaption>
 </figure> 
 
  
@@ -96,11 +96,11 @@ La AGE en Euskadi también debe respetar el bilingüismo y aplicar la cooficiali
 
 |Respeto del derecho a la elección lingüística en la atención ciudadana del Gobierno Vasco  | |
 |----:|----:|
-|Número de atenciones ciudadanas totales en el servicio Zuzenean, con registro de idioma   |730.657|
+|Número de atenciones ciudadanas totales con registro de idioma en el servicio Zuzenean   |730.657|
 |Número de atenciones ciudadanas en euskera en el servicio Zuzenean   |70.261|
 |Quejas ciudadanas por no atención en euskera en todo Gobierno Vasco según Behatokia   |243|
-|Quejas ciudadanas por no atención en euskera en todo Gobierno Vasco según Elebide<br>(29% orales=26, resto web/cartelería/escritos)   |90|
-|Datos: Zuzenean, Elebide y Behatokia. 2020  |
+|Quejas ciudadanas por no atención en euskera en todo Gobierno Vasco según Elebide<br>(29% orales, resto web/cartelería/escritos)   |90<br>(30 Lakua y delegaciones)|
+|Datos: Zuzenean, Behatokia y Elebide. 2020  |
 
 <figure>
 <a href="vis/usos_es/" target="_blank"><img src="img/usos_es_r.png" title="
