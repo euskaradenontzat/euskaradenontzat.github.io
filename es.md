@@ -100,7 +100,7 @@ La AGE en Euskadi también debe respetar el bilingüismo y aplicar la cooficiali
 |Número de atenciones ciudadanas en euskera en el servicio Zuzenean   |70.261|
 |Quejas ciudadanas por no atención en euskera en todo Gobierno Vasco según Behatokia   |243|
 |Quejas ciudadanas por no atención en euskera en todo Gobierno Vasco según Elebide<br>(29% orales, resto web/cartelería/escritos)   |90<br>(30 Lakua y delegaciones)|
-|Datos: Zuzenean, Elebide y Behatokia. 2020  |
+|Datos: Zuzenean, Behatokia y Elebide. 2020  |
 
 <figure>
 <a href="vis/usos_es/" target="_blank"><img src="img/usos_es_r.png" title="
