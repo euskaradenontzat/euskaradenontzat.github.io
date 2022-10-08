@@ -53,7 +53,7 @@ var tooltip = d3.select("body").append("div")
 		.attr("class", "tooltip2")
 
 //replaces spaces and .
-var replacement = function(d) { return d.replace(/\s+/g, '').replace(/\.+/g, '').replace(/\,+/g, '').replace(/[{()}]/g, '').replace(/\-+/g, '').toLowerCase();};
+var replacement2 = function(d) { return d.replace(/\s+/g, '').replace(/\.+/g, '').replace(/\,+/g, '').replace(/[{()}]/g, '').replace(/\-+/g, '').replace(/\//g, '').toLowerCase();};
 
 //Legends
 var legend = d3.select("#legend");
@@ -78,7 +78,7 @@ d3.tsv("data/municipios_araba.tsv", function(error, zonas) {
       .attr("d", path)
       .attr("fill","none")
       .attr("stroke","#AAA")
-			.attr("class",function(d) { return replacement(d.zona);} );
+			.attr("class",function(d) { return replacement2(d.zona);} );
 			
   // Add foreground lines for focus.
   foreground = svg.append("g")
@@ -87,11 +87,11 @@ d3.tsv("data/municipios_araba.tsv", function(error, zonas) {
       .data(zonas)
     .enter().append("path")
       .attr("d", path)
-      .attr("class",function(d) { return replacement(d.zona ) + " todos " + d.tamano2;} ) // colorea líneas según color de provincia
+      .attr("class",function(d) { return replacement2(d.zona ) + " todos " + d.tamano2;} ) // colorea líneas según color de provincia
       .attr("stroke", function(d) { return d.tamaño == "c. Menos de 5.001" ? "#fdbe85" : d.tamaño == "b. De 5.001 a 10.000" ? "#beaed4" : d.tamaño == "a. Más de 10.000" ? "#2ca25f" : "#666"; })
       .attr("fill","none")
       .attr("stroke-width","2.5px")
-      .attr("id",function(d) { return replacement(d.zona);} ) // colorea líneas según color de provincia
+      .attr("id",function(d) { return replacement2(d.zona);} ) // colorea líneas según color de provincia
       .on("mousemove", showTooltip) // AÑADIR EVENTO SHOW TOOLTIP
 			.on("mouseout", hideTooltip); // OCULTAR TOOLTIP
 
@@ -210,13 +210,13 @@ d3.tsv("data/municipios_araba.tsv", function(error, zonas) {
 	legend.selectAll('div')
 		.data(zonas)
 		.enter().append("li").append("a") // crea la lista con todos los elementos del dropdown
-		.attr("class", function(d) { return "inactive " + replacement(d.zona);}) // les añade la clase inactivo
-		.attr("id", function(d) { return "id" + replacement(d.zona);}) // les pone un id a todos
+		.attr("class", function(d) { return "inactive " + replacement2(d.zona);}) // les añade la clase inactivo
+		.attr("id", function(d) { return "id" + replacement2(d.zona);}) // les pone un id a todos
 		.text(function(d) { return d.zona;}) // mete el texto
 		.on('click',function(d) { //when click on name
 			legend.select('.btn-activo').attr('class','inactive'); // selecciona el municipio activo en el dropdown y lo pone inactivo
 			svg.selectAll('svg .foreground path').style("visibility","hidden").attr("stroke-width","2.5px"); // selecciona los que están en foreground y los pone como hidden
-			svg.selectAll('svg .foreground path.'+ replacement(d.zona)) // selecciona los municipios con d.zona
+			svg.selectAll('svg .foreground path.'+ replacement2(d.zona)) // selecciona los municipios con d.zona
 				.style("opacity",1) // y los pone con opacity 1
 				.style("visibility","visible").attr("stroke-width","2.5px"); //selecciona path que coincide con la zona seleccionada y los pone visibles
 			d3.select(this).attr("class","btn-activo"); //adds class success to button

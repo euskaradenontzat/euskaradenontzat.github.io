@@ -52,7 +52,7 @@ var tooltip = d3.select("body").append("div")
 		.attr("class", "tooltip2")
 
 //replaces spaces and .
-var replacement = function(d) { return d.replace(/\s+/g, '').replace(/\.+/g, '').replace(/\,+/g, '').replace(/[{()}]/g, '').replace(/\-+/g, '').toLowerCase();};
+var replacement2 = function(d) { return d.replace(/\s+/g, '').replace(/\.+/g, '').replace(/\,+/g, '').replace(/[{()}]/g, '').replace(/\-+/g, '').replace(/\//g, '').toLowerCase();};
 
 //Legends
 var legend3 = d3.select("#legend3");
@@ -76,7 +76,7 @@ d3.tsv("data/municipios_bizkaia.tsv", function(error, zonas3) {
       .attr("d", path)
       .attr("fill","none")
       .attr("stroke","#AAA")
-			.attr("class",function(d) { return replacement(d.zona);} );
+			.attr("class",function(d) { return replacement2(d.zona);} );
 			
   // Add foreground lines for focus.
   foreground = svg3.append("g")
@@ -85,11 +85,11 @@ d3.tsv("data/municipios_bizkaia.tsv", function(error, zonas3) {
       .data(zonas3)
     .enter().append("path")
       .attr("d", path)
-      .attr("class",function(d) { return replacement(d.zona ) + " todos " + d.tamano2;} ) // colorea líneas según color de provincia
+      .attr("class",function(d) { return replacement2(d.zona ) + " todos " + d.tamano2;} ) // colorea líneas según color de provincia
       .attr("stroke", function(d) { return d.tamaño == "c. Menos de 5.001" ? "#fdbe85" : d.tamaño == "b. De 5.001 a 10.000" ? "#beaed4" : d.tamaño == "a. Más de 10.000" ? "#2ca25f" : "#666"; })
       .attr("fill","none")
       .attr("stroke-width","1.7px")
-      .attr("id",function(d) { return replacement(d.zona);} ) // colorea líneas según color de provincia
+      .attr("id",function(d) { return replacement2(d.zona);} ) // colorea líneas según color de provincia
       .on("mousemove", showTooltip) // AÑADIR EVENTO SHOW TOOLTIP
 			.on("mouseout", hideTooltip); // OCULTAR TOOLTIP
 
@@ -207,13 +207,13 @@ d3.tsv("data/municipios_bizkaia.tsv", function(error, zonas3) {
 	legend3.selectAll('div')
 		.data(zonas3)
 		.enter().append("li").append("a")
-		.attr("class", function(d) { return "inactive " + replacement(d.zona);})
-		.attr("id", function(d) { return "id" + replacement(d.zona);})
+		.attr("class", function(d) { return "inactive " + replacement2(d.zona);})
+		.attr("id", function(d) { return "id" + replacement2(d.zona);})
 		.text(function(d) { return d.zona;})
 		.on('click',function(d) { //when click on name
 			legend3.select('.btn-activo').attr('class','inactive');
 			svg3.selectAll('svg .foreground path').style("visibility","hidden").attr("stroke-width","1.5px");
-			svg3.selectAll('svg .foreground path.'+ replacement(d.zona))
+			svg3.selectAll('svg .foreground path.'+ replacement2(d.zona))
 				.style("opacity",1)
 				.style("visibility","visible").attr("stroke-width","1.5px"); //selecciona path que coincide con la zona seleccionada
 			d3.select(this).attr("class","btn-activo"); //adds class success to button

@@ -52,7 +52,7 @@ var tooltip = d3.select("body").append("div")
 		.attr("class", "tooltip2")
 
 //replaces spaces and .
-var replacement = function(d) { return d.replace(/\s+/g, '').replace(/\.+/g, '').replace(/\,+/g, '').replace(/[{()}]/g, '').replace(/\-+/g, '').toLowerCase();};
+var replacement2 = function(d) { return d.replace(/\s+/g, '').replace(/\.+/g, '').replace(/\,+/g, '').replace(/[{()}]/g, '').replace(/\-+/g, '').replace(/\//g, '').toLowerCase();};
 
 //Legends
 var legend2 = d3.select("#legend2");
@@ -77,7 +77,7 @@ d3.tsv("data/municipios_data_2.tsv", function(error, zonas2) {
       .attr("d", path)
       .attr("fill","none")
       .attr("stroke","#AAA")
-			.attr("class",function(d) { return replacement(d.zona);} );
+			.attr("class",function(d) { return replacement2(d.zona);} );
 			
   // Add foreground lines for focus.
   foreground = svg2.append("g")
@@ -86,11 +86,11 @@ d3.tsv("data/municipios_data_2.tsv", function(error, zonas2) {
       .data(zonas2)
     .enter().append("path")
       .attr("d", path)
-      .attr("class",function(d) { return replacement(d.zona) + " guztiak "+ d.provincia;} ) // colorea líneas según color de provincia
+      .attr("class",function(d) { return replacement2(d.zona) + " guztiak "+ d.provincia;} ) // colorea líneas según color de provincia
       .attr("stroke", function(d) { return d.provincia == "araba" ? "#f6ae01" : d.provincia == "gipuzkoa" ? "#4199cb" : d.provincia == "bizkaia" ? "#da5455" : "#666"; })
       .attr("fill","none")
       .attr("stroke-width","1.9px")
-      .attr("id",function(d) { return replacement(d.zona);} ) // colorea líneas según color de provincia
+      .attr("id",function(d) { return replacement2(d.zona);} ) // colorea líneas según color de provincia
       .on("mousemove", showTooltip) // AÑADIR EVENTO SHOW TOOLTIP
 			.on("mouseout", hideTooltip); // OCULTAR TOOLTIP
 
@@ -209,22 +209,23 @@ d3.tsv("data/municipios_data_2.tsv", function(error, zonas2) {
 	legend2.selectAll('div')
 		.data(zonas2)
 		.enter().append("li").append("a")
-		.attr("class", function(d) { return "inactive " + replacement(d.zona);})
-		.attr("id", function(d) { return "id" + replacement(d.zona);})
+		.attr("class", function(d) { return "inactive " + replacement2(d.zona);})
+		.attr("id", function(d) { return "id" + replacement2(d.zona);})
 		.text(function(d) { return d.zona;})
 		.on('click',function(d) { //when click on name
 			legend2.select('.btn-activo').attr('class','inactive');
 			svg2.selectAll('svg .foreground path').style("visibility","hidden").attr("stroke-width","1.9px");
-			svg2.selectAll('svg .foreground path.'+ replacement(d.zona))
+			svg2.selectAll('svg .foreground path.'+ replacement2(d.zona))
 				.style("opacity",1)
 				.style("visibility","visible").attr("stroke-width","1.9px"); //selecciona path que coincide con la zona seleccionada
 			d3.select(this).attr("class","btn-activo"); //adds class success to button
-			if ( d.zona2 == "Todos") {
-				zona2.select("p").html("<strong>Todos los municipios</strong>");
-			} else if ( d.perc_alum_ext_priv == "") {
-				zona2.select("p").html("<strong>"+d.zona+"</strong>. No hay centros privados en esta zona");
+			if ( d.zona2 == "Guztiak") {
+				zona2.select("p").html("<strong>Udalerri guztiak</strong>");
 			} else {
-				zona2.select("p").html("<strong>"+d.zona+"</strong>"); //write in description
+				zona2.select("p").html("<strong>"+d.zona+"</strong>. <span style='font-size:0.7em'>"+ 
+				d.habitual_euskera_per + "% eusk. " + 
+				d.puestos_normativa_per + "% leg. " +
+				d.puestos_practica_per + "% prak.</span>"); //write in description
 			}
 		});
 });

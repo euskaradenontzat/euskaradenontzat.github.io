@@ -40,7 +40,7 @@ svg {
 
 path:hover {
   stroke: #000 !important;
-  stroke-width:4px;
+  stroke-width:6px;
   cursor: pointer;
 }
 
