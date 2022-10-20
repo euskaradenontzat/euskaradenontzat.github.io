@@ -89,7 +89,7 @@ Asimismo muchos puestos de trabajo requieren niveles asimétricos para desarroll
 
 <figure>
 <a href="img/tabla_perfiles_hb.png" target="_blank"><img src="img/tabla_perfiles_hb.png" title="Reconocimiento de perfiles orales y de comprensión (ulermendun/belarriprest) ya en 1994. Documento organizativo de HB" style="width:50%;"></a>
-<figcaption>Reconocimiento de perfiles orales y de comprensión (ulermendun/belarriprest) ya en 1994. Documento organizativo de HB.<a href="img/tabla_perfiles_hb">Sakatu tamaina osoan ikusteko</a>.</figcaption>
+<figcaption>Reconocimiento de perfiles orales y de comprensión (ulermendun/belarriprest) ya en 1994. Documento organizativo de HB.<a href="img/tabla_perfiles_hb">Pulsa para ver a tamaño completo</a>.</figcaption>
 </figure> 
  
 ##### C.II.- Perfil lingüístico como requisito proporcionado
