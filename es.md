@@ -81,6 +81,16 @@ Explicación: Al igual que la realización de una parte de los estudios oficiale
 Explicación: El sistema actual de perfiles exige acreditar simultáneamente cuatro competencias lingüísticas (comprensión oral y escrita, expresión oral y escrita). Pero en cualquier comunidad lingüística muchas personas alcanzan diferentes niveles en cada competencia, por lo que es clave abrir la posibilidad de acreditación diferenciada de cada competencia, como por ejemplo la comprensión que se reivindica en el Euskaraldia, o la oralidad de los euskaldunes ágrafos, tal y como se hace en certificados como TOEFL.
 
 Asimismo muchos puestos de trabajo requieren niveles asimétricos para desarrollar sus funciones. Como por ejemplo los conductores de autobús o cuidadoras de residencias, que no necesitan redactar para la realización de sus tareas, sino que con saber hablar y entender sería suficiente. Pero actualmente el conocimiento mínimo exigible en los puestos de trabajo del sistema de perfiles es a partir de B1 en todas las competencias, sin tan siquiera valorar los niveles A1 y A2 (dónde estudian el 28% del alumnado total de los euskaltegis, de los que un 40% proviene de fuera de Euskal Herria).
+
+<figure>
+<a href="img/piramide-euskera_es.png" target="_blank"><img src="img/piramide-euskera_es.png" title="Diversidad y asimetría de conocimientos, usos y acreditaciones de euskera. Euskadi" style="width:50%;"></a>
+<figcaption>Diversidad y asimetría de conocimientos, usos y acreditaciones de euskera. Euskadi.<a href="img/piramide-euskera_es.png">Pulsa para ver a tamaño completo</a>.</figcaption>
+</figure>
+
+<figure>
+<a href="img/tabla_perfiles_hb.png" target="_blank"><img src="img/tabla_perfiles_hb.png" title="Reconocimiento de perfiles orales y de comprensión (ulermendun/belarriprest) ya en 1994. Documento organizativo de HB" style="width:50%;"></a>
+<figcaption>Reconocimiento de perfiles orales y de comprensión (ulermendun/belarriprest) ya en 1994. Documento organizativo de HB.<a href="img/tabla_perfiles_hb">Sakatu tamaina osoan ikusteko</a>.</figcaption>
+</figure> 
  
 ##### C.II.- Perfil lingüístico como requisito proporcionado
 

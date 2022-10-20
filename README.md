@@ -83,6 +83,16 @@ Azalpena: Egungo hizkuntza eskakizunen sistemak lau hizkuntza trebetasun aldi be
 
 Era berean, lanpostu askok maila asimetrikoak behar dituzte beren eginkizunak betetzeko. Adibidez, autobus gidariak edo egoitzetako zaintzaileak, ez baitute idatzi behar beren zereginak egiteko, baizik eta hitz egiten eta ulertzen jakitea nahikoa izango litzateke. Baina, gaur egun, hizkuntza eskakizunen sistemako lanpostuetan eska daitekeen gutxieneko ezagutza B1etik gorakoa da trebetasun guztietan, A1 eta A2 mailak baloratu gabe (euskaltegietako ikasle guztien % 28k ikasten dute maila hauetan, eta horietatik % 40k Euskal Herritik kanpo dute jatorria).
 
+<figure>
+<a href="img/piramide-euskera_eus.png" target="_blank"><img src="img/piramide-euskera_eus.png" title="Diversidad y asimetría de conocimientos, usos y acreditaciones de euskera. Euskadi" style="width:50%;"></a>
+<figcaption>Euskararen ezagutza, erabilera eta egiaztapen aniztasuna eta asimetria. Euskadi.<a href="img/piramide-euskera_eus.png">Sakatu tamaina osoan ikusteko</a>.</figcaption>
+</figure>
+
+<figure>
+<a href="img/tabla_perfiles_hb.png" target="_blank"><img src="img/tabla_perfiles_hb.png" title="Ahozko eta ulermenezko (ulermendun/belarriprest) hizkuntza eskakizunen aitortza 1994an. HBko antolakuntza dokumentua" style="width:50%;"></a>
+<figcaption>Ahozko eta ulermenezko (ulermendun/belarriprest) hizkuntza eskakizunen aitortza 1994an. HBko antolakuntza dokumentua.<a href="img/tabla_perfiles_hb">Sakatu tamaina osoan ikusteko</a>.</figcaption>
+</figure> 
+
 ##### C.II.- Hizkuntza-eskakizuna baldintza gisa
 
 > **8. Proposamena**: Egoera soziolinguistiko desberdinak eta hizkuntza ikuspegidun zerbitzuen benetako eskariaren neurketa kontuan hartzea, derrigorrezko hizkuntza eskakizuna duten lanpostuen ehunekoa ezartzeko, administrazioen zerbitzu publikoetan herritarren arreta bermatzeko, bai zuzeneko prestazioetan, bai kontrata publikoetan.
