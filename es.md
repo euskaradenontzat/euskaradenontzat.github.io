@@ -87,11 +87,6 @@ Asimismo muchos puestos de trabajo requieren niveles asimétricos para desarroll
 <figcaption>Diversidad y asimetría de conocimientos, usos y acreditaciones de euskera. Euskadi.<a href="img/piramide-euskera_es.png">Pulsa para ver a tamaño completo</a>.</figcaption>
 </figure>
 
-<figure>
-<a href="img/tabla_perfiles_hb.png" target="_blank"><img src="img/tabla_perfiles_hb.png" title="Reconocimiento de perfiles orales y de comprensión (ulermendun/belarriprest) ya en 1994. Documento organizativo de HB" style="width:50%;"></a>
-<figcaption>Reconocimiento de perfiles orales y de comprensión (ulermendun/belarriprest) ya en 1994. Documento organizativo de HB.<a href="img/tabla_perfiles_hb">Pulsa para ver a tamaño completo</a>.</figcaption>
-</figure> 
- 
 ##### C.II.- Perfil lingüístico como requisito proporcionado
 
 > **Propuesta 8**: Tomar en cuenta las distintas realidades sociolingüísticas y la medición de la demanda efectiva de servicios con perspectiva lingüística para establecer el porcentaje de puestos de trabajo con perfil lingüístico preceptivo para garantizar la atención de la ciudadanía en los servicios públicos de las administraciones públicas, tanto en los de prestación directa como en las contratas públicas.

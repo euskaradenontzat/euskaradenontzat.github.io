@@ -88,11 +88,6 @@ Era berean, lanpostu askok maila asimetrikoak behar dituzte beren eginkizunak be
 <figcaption>Euskararen ezagutza, erabilera eta egiaztapen aniztasuna eta asimetria. Euskadi.<a href="img/piramide-euskera_eus.png">Sakatu tamaina osoan ikusteko</a>.</figcaption>
 </figure>
 
-<figure>
-<a href="img/tabla_perfiles_hb.png" target="_blank"><img src="img/tabla_perfiles_hb.png" title="Ahozko eta ulermenezko (ulermendun/belarriprest) hizkuntza eskakizunen aitortza 1994an. HBko antolakuntza dokumentua" style="width:50%;"></a>
-<figcaption>Ahozko eta ulermenezko (ulermendun/belarriprest) hizkuntza eskakizunen aitortza 1994an. HBko antolakuntza dokumentua. <a href="img/tabla_perfiles_hb">Sakatu tamaina osoan ikusteko</a>.</figcaption>
-</figure> 
-
 ##### C.II.- Hizkuntza-eskakizuna baldintza gisa
 
 > **8. Proposamena**: Egoera soziolinguistiko desberdinak eta hizkuntza ikuspegidun zerbitzuen benetako eskariaren neurketa kontuan hartzea, derrigorrezko hizkuntza eskakizuna duten lanpostuen ehunekoa ezartzeko, administrazioen zerbitzu publikoetan herritarren arreta bermatzeko, bai zuzeneko prestazioetan, bai kontrata publikoetan.
