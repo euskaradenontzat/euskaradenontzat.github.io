@@ -66,7 +66,7 @@ Azalpena: Hezkuntza sistema osoan normala den bezala, euskara maila baxuenen ziu
 
 > **4. Proposamena**: Euskara-maila egiaztatzeko aukera, hautaprobak euskaraz eginez eta zeregin profesionalak euskaraz egin izanaren ziurtagiria aurkeztuz.
 
-Azalpena: Ikasketa ofizialen zati bat euskaraz egiteak euskararen ezagutza egiaztatzeko aukera ematen duen bezala (47/2012 Dekretua), oposizio azterketak euskaraz egitea eta lanpostuaren jardun profesionalaren euskaraz egin izanaraen ziurtagiriak (profesionaltasun-ziurtagiriak) ere ezagutza egiaztatzeko modu gisa erabili beharko lirateke.
+Azalpena: Ikasketa ofizialen zati bat euskaraz egiteak euskararen ezagutza egiaztatzeko aukera ematen duen bezala (47/2012 Dekretua), oposizio azterketak euskaraz egitea eta lanpostuaren jardun profesionalaren euskaraz egin izanaraen ziurtagiriak (EEI-ren profesionaltasun-ziurtagiriak) ere ezagutza egiaztatzeko modu gisa erabili beharko lirateke.
 
 
 #### C.- Ezagutza-aniztasun guztia hizkuntza-eskakizun malguekin aitortzea
