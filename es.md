@@ -128,9 +128,13 @@ Explicación: De igual manera que la perspectiva de género ayuda a la hora de o
  
 ## Actividades
 
-### Presentación de la actividad
+<img src="img/221115_aktibitatea_02_es.jpeg" alt="cartel actividad 15 noviembre2022" width="500">
 
-<img src="img/221008_aktibitatea_01_es.png" alt="cartel actividad 10 octubre 2022" width="500">
+**15 de noviembre 2022**
+Hora: 18:30h.
+Centro Cívico El Pilar. Plaza de la Constitución. Vitoria Gasteiz.
+
+<img src="img/221008_aktibitatea_01_es.png" alt="cartel actividad 10 octubre 2022" width="250">
 
 **8 de octubre 2022**
 Hora: 10:00h.
