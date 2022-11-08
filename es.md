@@ -64,7 +64,7 @@ Explicación: Como es normal en todo el sistema educativo, la certificación de 
 
 > **Propuesta 4**: Posibilidad de acreditar el nivel de euskera mediante la realización de las pruebas selectivas en euskera y la certificación del desempeño de tareas profesionales en euskera.
 
-Explicación: Al igual que la realización de una parte de los estudios oficiales en euskera ya permite acreditar su conocimiento de euskera (Decreto 47/2012), la realización de exámenes de oposición en euskera y los certificados de desempeño profesional del puesto de trabajo en euskera (certificados de profesionalidad) también debería servir como forma de acreditación de conocimiento.
+Explicación: Al igual que la realización de una parte de los estudios oficiales en euskera ya permite acreditar su conocimiento de euskera (Decreto 47/2012), la realización de exámenes de oposición en euskera y los certificados de desempeño profesional del puesto de trabajo en euskera (certificados de profesionalidad del IVAC) también debería servir como forma de acreditación de conocimiento.
 
 
 

@@ -8,6 +8,8 @@
 
 * [Hizkuntza politikari buruzko eztabaida, norantz?. Iñaki Guridiren elkarrizketa Euskadi Irratiko Faktorian 2022/10/05.](https://www.eitb.eus/eu/irratia/euskadi-irratia/programak/faktoria/osoa/8976416/hizkuntza-politikari-buruzko-eztabaida-norantz/)
 * [Euskara eskakizunak apaltzeko eskatu du Euskara Denontzat plataformak. Berria 2022/10/08.](https://www.berria.eus/albisteak/219235/euskara-eskakizunak-apaltzeko-eskatu-du-euskara-denontzat-plataformak.htm)
+* [(BIDEOA) Ebaluazio jarraituaren bidezko zertifikazioa: premiazko erronka HABE eta euskaltegientzat. Joseba Erkizia HABEren zuzendari ohiaren hitzaldia.](https://www.youtube.com/watch?v=NgdYM29SmAw)
+* [(BIDEOA, amaierako 7 min, subtítulos) Ebaluazio jarraituaren bidezko zertifikazioa: premiazko erronka HABE eta euskaltegientzat. Joseba Erkizia HABEren zuzendari ohiaren hitzaldia.](https://www.youtube.com/watch?v=LILUWiHPfkY)
 
 
 ## Noticias
