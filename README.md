@@ -127,7 +127,9 @@ Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak o
 
 ## Aktibitateak
 
-<img src="img/221115_aktibitatea_02_eu.jpeg" alt="cartel actividad 15 noviembre2022" width="500">
+<img src="img/221201_aktibitatea_03_eu.jpg" alt="cartel actividad 1 diciembre 2022" width="500">
+
+<img src="img/221115_aktibitatea_02_eu.jpeg" alt="cartel actividad 15 noviembre 2022" width="250">
 
 <img src="img/221008_aktibitatea_01_eu.png" alt="cartel actividad 10 octubre 2022" width="250">
 

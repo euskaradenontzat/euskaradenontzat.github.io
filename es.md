@@ -128,7 +128,13 @@ Explicación: De igual manera que la perspectiva de género ayuda a la hora de o
  
 ## Actividades
 
-<img src="img/221115_aktibitatea_02_es.jpeg" alt="cartel actividad 15 noviembre2022" width="500">
+<img src="img/221201_aktibitatea_02_es.jpg" alt="cartel actividad 1 diciembre 2022" width="500">
+
+**Jueves  1 de diciembre 2022**
+Hora: 18:30h.
+Cripta de la Bilbioteca Central. C/ San Jerónimo. Parte Vieja. Donostia-San Sebastián.
+
+<img src="img/221115_aktibitatea_02_es.jpeg" alt="cartel actividad 15 noviembre 2022" width="250">
 
 **15 de noviembre 2022**
 Hora: 18:30h.
