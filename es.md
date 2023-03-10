@@ -128,6 +128,13 @@ Explicación: De igual manera que la perspectiva de género ayuda a la hora de o
  
 ## Actividades
 
+<img src="img/230314_bilbaodatalab.png" alt="cartel Martes 14 de marzo 2023" width="500">
+
+**Martes 14 de marzo 2023**
+Hora: 18:00h.
+Wikitoki. Plaza de la Cantera 2. Bilbao.
+
+
 <img src="img/221201_aktibitatea_03_es.jpg" alt="cartel actividad 1 diciembre 2022" width="500">
 
 **Jueves  1 de diciembre 2022**

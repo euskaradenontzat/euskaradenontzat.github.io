@@ -127,6 +127,8 @@ Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak o
 
 ## Aktibitateak
 
+<img src="img/230314_bilbaodatalab.png" alt="cartel Martes 14 de marzo 2023" width="500">
+
 <img src="img/221201_aktibitatea_03_eu.jpg" alt="cartel actividad 1 diciembre 2022" width="500">
 
 <img src="img/221115_aktibitatea_02_eu.jpeg" alt="cartel actividad 15 noviembre 2022" width="250">
