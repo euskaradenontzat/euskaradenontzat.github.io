@@ -128,7 +128,14 @@ Explicación: De igual manera que la perspectiva de género ayuda a la hora de o
  
 ## Actividades
 
-<a href="https://bilbaodatalab.wikitoki.org/actividad/eukera-denontzat/"><img src="img/230314_bilbaodatalab.png" alt="cartel Martes 14 de marzo 2023" width="600"></a>
+
+<img src="img/230509_las-lenguas-y-el-derecho.jpg" alt="cartel 9 mayo 2023" width="600">
+
+**Martes, 9 de mayo 2023**
+Hora: 18:30h.
+Colegio de la Abogacía de Bizkaia. Rampas de Uribitarte, 32. Bilbao.
+
+<a href="https://bilbaodatalab.wikitoki.org/actividad/eukera-denontzat/"><img src="img/230314_bilbaodatalab.png" alt="cartel Martes 14 de marzo 2023" width="250"></a>
 
 **Martes, 14 de marzo 2023**
 Hora: 18:00h.
