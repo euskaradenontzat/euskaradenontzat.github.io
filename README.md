@@ -127,7 +127,9 @@ Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak o
 
 ## Aktibitateak
 
-<img src="img/230509_las-lenguas-y-el-derecho.jpg" alt="cartel 9 mayo 2023" width="600">
+<img src="img/231116_solasaldia.jpg" alt="Solasaldia. Vitoria 2023-11-16" width="600">
+
+<img src="img/230509_las-lenguas-y-el-derecho.jpg" alt="cartel 9 mayo 2023" width="250">
 
 <a href="https://bilbaodatalab.wikitoki.org/actividad/eukera-denontzat/"><img src="img/230314_bilbaodatalab.png" alt="cartel Martes 14 de marzo 2023" width="250"></a>
 

@@ -128,8 +128,10 @@ Explicación: De igual manera que la perspectiva de género ayuda a la hora de o
  
 ## Actividades
 
+<img src="img/231116_solasaldia.jpg" alt="Solasaldia. Vitoria 2023-11-16" width="600">
 
-<img src="img/230509_las-lenguas-y-el-derecho.jpg" alt="cartel 9 mayo 2023" width="600">
+
+<img src="img/230509_las-lenguas-y-el-derecho.jpg" alt="cartel 9 mayo 2023" width="250">
 
 **Martes, 9 de mayo 2023**
 Hora: 18:30h.
