@@ -18,7 +18,7 @@
 * [Una nueva plataforma pide permisos retribuidos para que trabajadores del sector privado estudien euskera. Eldiario.es Euskadi 22/09/2022.](https://www.eldiario.es/euskadi/nueva-plataforma-pide-permisos-retribuidos-trabajadores-sector-privado-estudien-euskera_1_9557188.html)
 * <a href="mp3/CronicaEuskadi.RadioEuskadi.mp3">Entrevista de Dani Álvarez en Crónica Euskadi de Radio Euskadi 23/09/2022.</a>
 * [Entrevista en Hora 14 Euskadi. Cadena SER 08/10/2022.](https://cadenaser.com/euskadi/2022/10/08/la-iniciativa-euskara-denontzat-pide-adaptar-la-exigencia-de-euskera-a-la-realidad-linguistica-de-cada-zona-radio-bilbao/)
-* * <a href=mp3/Sabin Zubiri Radio Euskadi 4 nov 2023.mp3">Entrevista de Liher Puente en Crónica Euskadi de Radio Euskadi 05/11/2023.</a>
+* <a href=mp3/Sabin Zubiri Radio Euskadi 4 nov 2023.mp3">Entrevista de Liher Puente en Crónica Euskadi de Radio Euskadi 05/11/2023.</a>
 
 <meta property="og:title" content="euskaradenontzat">
 <style>
