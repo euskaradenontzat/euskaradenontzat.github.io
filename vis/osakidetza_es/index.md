@@ -2,16 +2,14 @@
 
 [<img src="/img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat sin barreras">](/es)
 
-# ¿Para la imprescindible garantía de la demanda ciudadana de atención sanitaria en euskera, son adecuadas las actuales exigencias lingüísticas en Osakidetza?
+# Para atender la imprescindible garantía de la demanda ciudadana de atención sanitaria en euskera, ¿son adecuadas las actuales exigencias lingüísticas en Osakidetza?
+
+La gestión de Osakidetza se realiza a través de las 13 OSI (Organizaciones Sanitarias Integradas) distribuidas por todo Euskadi. Existen estadísticas de Osakidetza que determinan el porcentaje de pacientes que demandan ser atendidos en euskera en cada OSI.
 
 <figure>
-<a href="/img/osis_osakidetza_perfiles_medico-familia_2025.png" target="_blank"><img src="/img/osis_osakidetza_perfiles_medico-familia_2025.png" title="Pulsa para ver a tamaño completo" alt="Demanda de atención sanitaria en euskera en Osakidetza, perfiles lingüísticos acreditados y exigidos. 2025" style="width:50%;"></a>
+<a href="/img/osis_osakidetza_perfiles_medico-familia_2025.png" target="_blank"><img src="/img/osis_osakidetza_perfiles_medico-familia_2025.png" title="Pulsa para ver a tamaño completo" alt="Demanda de atención sanitaria en euskera en Osakidetza, perfiles lingüísticos acreditados y exigidos. 2025"></a>
 <figcaption>Demanda de atención sanitaria en euskera en Osakidetza, perfiles lingüísticos acreditados y exigidos. 2025. <a href="/img/osis_osakidetza_perfiles_medico-familia_2025.png">Pulsa para ver a tamaño completo</a>.</figcaption>
 </figure> 
-
-La gestión de Osakidetza se realiza a través de las 13 OSI (Organizaciones Sanitarias Integradas) distribuidas por todo Euskadi. 
-
-Existen estadísticas de Osakidetza que determinan el porcentaje de pacientes que demandan ser atendidos en euskera. 
 
 Cada OSI tiene definido un número de puestos a los que se les exige el nivel B2 de euskera (perfil exigido). Sin embargo, como es el caso de los médicos de familia, el personal que acredita el perfil lingüistico (personal acreditado) en euskera no llega a cubrir los puestos que exigen ese perfil en ninguno de las OSI.
 
