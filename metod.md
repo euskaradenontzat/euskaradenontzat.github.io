@@ -26,6 +26,11 @@
 * [Informe de actividad del servicio de atención a la ciudadanía Zuzenean Informe anual 2020](https://www.euskadi.eus/contenidos/informacion/informes_mensuales_zuzenean/es_def/adjuntos/2020/Informes_actividad_2020_anual_v1.pdf)
 * [Elebide. Memoria de actividad 2020](https://www.euskadi.eus/contenidos/informacion/elebide_servicios/es_edukia/adjuntos/ELEBIDE-2020-cas.pdf)
 * [Behatokia. La situación de los derechos lingüísticos 2020 (en euskera)](https://behatokia.eus/media/pdf/Hizkuntza_Eskubideen_Egoera_2020.pdf)
+* [Pregunta parlamentaria: Relativa a las necesidades lingüísticas para la plantilla de Osakidetza y a la efectiva acreditación lingüística de sus trabajadoras y trabajadores. Febrero 2025](https://www.legebiltzarra.eus/ords/f?p=120:18:12339917070882::NO:RP,RIR:P18_ID,P18_EXPAND:85998,N).
+* [Pregunta parlamentaria: Preferencias lingüísticas registradas en Osakidetza. Junio 2025](https://www.legebiltzarra.eus/ic2/restAPI/pvgune_descargar/default/3906faa5-9871-4cee-80ab-8133cc269060).
+
+
+
 
 <meta property="og:title" content="euskaradenontzat">
 <style>
