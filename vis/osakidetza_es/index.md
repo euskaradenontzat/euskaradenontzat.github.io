@@ -9,7 +9,7 @@
 La atención sanitaria de Osakidetza se realiza a través de las 13 OSI (Organizaciones Sanitarias Integradas) territoriales, distribuidas por todo Euskadi. Existe un registro de preferencia lingüística, cumplimentado a fecha de junio de 2025 por el 88,77% de la ciudadanía, que permite saber el porcentaje de pacientes que demandan ser atendidos en euskera en cada OSI.
 
 <figure>
-<a href="/img/osis_osakidetza_perfiles_medico-familia_2025.png" target="_blank"><img src="/img/osis_osakidetza_perfiles_medico-familia_2025.png" title="Pulsa para ver a tamaño completo" alt="Demanda de atención sanitaria en euskera en Osakidetza, perfiles lingüísticos acreditados y exigidos. 2025"></a>
+<a href="/img/osis_osakidetza_perfiles_medico-familia_2025_es.png" target="_blank"><img src="/img/osis_osakidetza_perfiles_medico-familia_2025_es.png" title="Pulsa para ver a tamaño completo" alt="Demanda de atención sanitaria en euskera en Osakidetza, perfiles lingüísticos acreditados y exigidos. 2025"></a>
 <figcaption>Demanda de atención sanitaria en euskera en Osakidetza, perfiles lingüísticos acreditados y exigidos. 2025. <a href="/img/osis_osakidetza_perfiles_medico-familia_2025.png">Pulsa para ver a tamaño completo</a>.</figcaption>
 </figure> 
 
