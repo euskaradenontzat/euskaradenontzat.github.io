@@ -14,6 +14,9 @@
 * [Zuzenean herritarrentzako zerbitzuaren jarduerari buruzko 2020ko txostena](https://www.euskadi.eus/contenidos/informacion/informes_mensuales_zuzenean/eu_def/adjuntos/2020/Txostenak_jarduera_2020_urteko_v1.pdf)
 * [Elebide. 2020ko Jarduera-txostena](https://www.euskadi.eus/contenidos/informacion/elebide_servicios/eu_edukia/adjuntos/ELEBIDE-2020-eus.pdf)
 * [Behatokia. Hizkuntza eskubideen egoera 2020](https://behatokia.eus/media/pdf/Hizkuntza_Eskubideen_Egoera_2020.pdf)
+* [Osakidetzako plantillarentzako hizkuntza-beharrizanei eta erakunde horretako langileen hizkuntza-egiaztapen eraginkorrari buruz. 2025eko otsaila](https://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE:1170876523324::NO:RP:P18_ID,P18_EXPAND:85998,N&p_lang=eu)
+* [Osakidetzan erregistratutako hizkuntza-lehentasunei buruz. 2025eko ekaina](https://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE:3794132219084::NO:RP:P18_ID,P18_EXPAND:86583,N&p_lang=eu)
+
 
 
 ## Gráficos: metodología y datos
@@ -26,8 +29,8 @@
 * [Informe de actividad del servicio de atención a la ciudadanía Zuzenean Informe anual 2020](https://www.euskadi.eus/contenidos/informacion/informes_mensuales_zuzenean/es_def/adjuntos/2020/Informes_actividad_2020_anual_v1.pdf)
 * [Elebide. Memoria de actividad 2020](https://www.euskadi.eus/contenidos/informacion/elebide_servicios/es_edukia/adjuntos/ELEBIDE-2020-cas.pdf)
 * [Behatokia. La situación de los derechos lingüísticos 2020 (en euskera)](https://behatokia.eus/media/pdf/Hizkuntza_Eskubideen_Egoera_2020.pdf)
-* [Pregunta parlamentaria: Relativa a las necesidades lingüísticas para la plantilla de Osakidetza y a la efectiva acreditación lingüística de sus trabajadoras y trabajadores. Febrero 2025](https://www.legebiltzarra.eus/ords/f?p=120:18:12339917070882::NO:RP,RIR:P18_ID,P18_EXPAND:85998,N).
-* [Pregunta parlamentaria: Preferencias lingüísticas registradas en Osakidetza. Junio 2025](https://www.legebiltzarra.eus/ic2/restAPI/pvgune_descargar/default/3906faa5-9871-4cee-80ab-8133cc269060).
+* [Relativa a las necesidades lingüísticas para la plantilla de Osakidetza y a la efectiva acreditación lingüística de sus trabajadoras y trabajadores. Febrero 2025](https://www.legebiltzarra.eus/ords/f?p=120:18:12339917070882::NO:RP,RIR:P18_ID,P18_EXPAND:85998,N). Se han seleccionado para el mapa las 4 categorías sanitarias con más puestos.
+* [Preferencias lingüísticas registradas en Osakidetza. Junio 2025](https://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE:3590142666::NO:RP:P18_ID,P18_EXPAND:86583,N&p_lang=es).
 
 
 
