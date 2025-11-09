@@ -35,8 +35,8 @@ h1:nth-child(1) {
   visibility: hidden;
   line-height: 0;
 }
-h1 {
-  font-size: 1.3em;
+.markdown-body h1 {
+  font-size: 1.3em !important;
 }
 .pressbutton {
     background-color: #008871;
