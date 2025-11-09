@@ -35,6 +35,9 @@ h1:nth-child(1) {
   visibility: hidden;
   line-height: 0;
 }
+h1 {
+  font-size: 1.3em;
+}
 .pressbutton {
     background-color: #008871;
     border: none;
@@ -53,6 +56,9 @@ a {
 figcaption{
    font-size:0.8em;
    color:#444444;
-   width:50%;
+   width:100%;
+}
+figure{
+  margin: 0;
 }
 </style>
