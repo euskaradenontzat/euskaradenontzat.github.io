@@ -26,7 +26,7 @@ Y en esta última herramienta de análisis comparativo se pueden consultar los d
 
 ## Consulta en todas las categorías profesionales de Osakidetza (234) 
 
-En este gráfico interactivo puedes consultar todas las categorías profesionales de Osakidetza (234) y todos los perfiles lingüísticos acreditados y exigidos en cada una de las OSI (13).
+En <a href="https://derechoslinguisticos-f68731.gitlab.io/" target="_blank">este gráfico interactivo</a> puedes consultar para todas las categorías profesionales de Osakidetza (234) los perfiles lingüísticos acreditados y exigidos en cada una de las OSI (13).
 
 <a href="https://derechoslinguisticos-f68731.gitlab.io/" target="_blank"><img src="/img/herramienta-analisis-perfiles-osakidetza.png" title="Pulsa para ver a tamaño completo" alt="Demanda de atención sanitaria en euskera en Osakidetza, perfiles lingüísticos acreditados y exigidos. 2025"></a>
 
