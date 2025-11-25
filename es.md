@@ -47,7 +47,7 @@ Explicación: Así como la cuantía de la matrícula resulta condicionante a la 
 
 <figure>
 <a href="img/tabla_horas_es.jpeg" target="_blank"><img src="img/tabla_horas_es_r.png" title="Horas de enseñanza y horas de aprendizaje (teóricas)" style="width:50%;"></a>
-<figcaption>Horas de enseñanza y horas de aprendizaje HABE (teóricas).<a href="img/tabla_horas_es.jpeg">Pulsa para ver a tamaño completo</a>.</figcaption>
+<figcaption>Horas de enseñanza y horas de aprendizaje HABE (teóricas). <a href="img/tabla_horas_es.jpeg">Pulsa para ver a tamaño completo</a>.</figcaption>
 </figure> 
 
  
@@ -110,7 +110,7 @@ La AGE en Euskadi también debe respetar el bilingüismo y aplicar la cooficiali
 <figure>
 <a href="vis/usos_es/" target="_blank"><img src="img/usos_es_r.png" title="
 Uso declarado del euskera, y exigencia legal y práctica de perfiles lingüísticos en cada municipio (seleccionable por tamaño de población y territorio histórico)" title="Uso declarado del euskera, y exigencia legal y práctica de perfiles lingüísticos en cada municipio (seleccionable por tamaño de población y territorio histórico) " style="width:50%;"></a>
-<figcaption>Uso declarado del euskera, y exigencia legal y práctica de perfiles lingüísticos en cada municipio (seleccionable por tamaño de población y territorio histórico) .<a href="vis/usos_es/">Pulsa para ver a tamaño completo</a>.</figcaption>
+<figcaption>Uso declarado del euskera, y exigencia legal y práctica de perfiles lingüísticos en cada municipio (seleccionable por tamaño de población y territorio histórico). <a href="vis/usos_es/">Pulsa para ver a tamaño completo</a>.</figcaption>
 </figure> 
 
 ##### C.III.- Perfil lingüístico como mérito proporcionado

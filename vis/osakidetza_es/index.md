@@ -21,8 +21,16 @@ En el siguiente mapa puedes consultar en cada OSI los porcentajes de (1) Demanda
 
 <iframe title="Demanda de atención sanitaria en euskera en Osakidetza, perfiles lingüísticos acreditados y exigidos por OSI" aria-label="Mapa coroplético" id="datawrapper-chart-zxWXf" src="https://datawrapper.dwcdn.net/zxWXf/12/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none; margin-bottom:1em;" height="746" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
----
 
+Y en esta última herramienta de análisis comparativo se pueden consultar los datos lingüísticos de cada una de las 234 categorías profesionales de Osakidetza.
+
+## Consulta en todas las categorías profesionales de Osakidetza (234) 
+
+En este gráfico interactivo puedes consultar todas las categorías profesionales de Osakidetza (234) y todos los perfiles lingüísticos acreditados y exigidos en cada una de las OSI (13).
+
+<a href="https://derechoslinguisticos-f68731.gitlab.io/" target="_blank"><img src="/img/herramienta-analisis-perfiles-osakidetza.png" title="Pulsa para ver a tamaño completo" alt="Demanda de atención sanitaria en euskera en Osakidetza, perfiles lingüísticos acreditados y exigidos. 2025"></a>
+
+---
 Datos: Departamento de Salud del Gobierno Vasco, 2025. Consulta la [sección de metodología y datos](/metod).
 
 ## Para recibir información sobre esta campaña, apúntate aquí 
