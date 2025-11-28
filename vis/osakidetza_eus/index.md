@@ -61,6 +61,9 @@ a {
 figcaption{
    font-size:0.8em;
    color:#444444;
-   width:50%;
+   width:100%;
+}
+figure{
+  margin: 0 0 1em 0;
 }
 </style>
