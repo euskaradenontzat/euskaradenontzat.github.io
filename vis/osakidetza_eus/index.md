@@ -22,13 +22,13 @@ Hurrengo mapan honako portzentaje hauek kontsulta [ditzakezu ESI bakoitzean](htt
 <iframe title="Osakidetzan osasun arreta euskaraz jasotzeko eskaria, egiaztatutako eta eskatutako hizkuntza eskakizunak" aria-label="Mapa coroplético" id="datawrapper-chart-EZh9x" src="https://datawrapper.dwcdn.net/EZh9x/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="746" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 
-Y (...)
+Eta konparazio hausnarketarako azken tresna honetan, Osakidetzako 234 lanbide kategoria bakoitzaren hizkuntza datuak kontsulta daitezke.
 
-## C (...)
+## Kontsulta Osakidetzako lanbide kategoria guztietan (234)
 
-En <a href="https://derechoslinguisticos-f68731.gitlab.io/" target="_blank">graf</a>  
+<a href="https://derechoslinguisticos-f68731.gitlab.io/" target="_blank">Grafiko interaktibo honetan</a>, Osakidetzako lanbide kategoria guztietarako (234) kontsulta ditzakezu ESI bakoitzean (13) egiaztatutako eta eskatutako hizkuntza eskakizunak.
 
-<a href="https://derechoslinguisticos-f68731.gitlab.io/" target="_blank"><img src="/img/herramienta-analisis-perfiles-osakidetza_click.png" title="Pulsa para ver versión interactiva" alt="Demanda de atención sanitaria en euskera en Osakidetza, perfiles lingüísticos acreditados y exigidos. 2025"></a>
+<a href="https://derechoslinguisticos-f68731.gitlab.io/" target="_blank"><img src="/img/herramienta-analisis-perfiles-osakidetza_click_eus.png" title="Klik bertsio interaktiboa ikusteko" alt="Kontsulta Osakidetzako lanbide kategoria guztietan (234)"></a>
 
 ---
 Datuak: Eusko Jaurlaritzako Osasun Saila, 2025. Kontsultatu [Metodologia eta datuak atalean](/metod).
