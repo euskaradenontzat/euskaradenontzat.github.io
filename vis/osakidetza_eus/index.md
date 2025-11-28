@@ -24,7 +24,7 @@ Hurrengo mapan honako portzentaje hauek kontsulta [ditzakezu ESI bakoitzean](htt
 
 Eta konparazio hausnarketarako azken tresna honetan, Osakidetzako 234 lanbide kategoria bakoitzaren hizkuntza datuak kontsulta daitezke.
 
-## Kontsulta Osakidetzako lanbide kategoria guztietan (234)
+## Kontsultatu Osakidetzako lanbide kategoria guztietan (234)
 
 <a href="https://derechoslinguisticos-f68731.gitlab.io/" target="_blank">Grafiko interaktibo honetan</a>, Osakidetzako lanbide kategoria guztietarako (234) kontsulta ditzakezu ESI bakoitzean (13) egiaztatutako eta eskatutako hizkuntza eskakizunak.
 
