@@ -26,9 +26,9 @@ Eta konparazio hausnarketarako azken tresna honetan, Osakidetzako 234 lanbide ka
 
 ## Kontsultatu Osakidetzako lanbide kategoria guztietan (234)
 
-<a href="https://derechoslinguisticos-f68731.gitlab.io/" target="_blank">Grafiko interaktibo honetan</a>, Osakidetzako lanbide kategoria guztietarako (234) kontsulta ditzakezu ESI bakoitzean (13) egiaztatutako eta eskatutako hizkuntza eskakizunak.
+<a href="https://hizkuntzaeskubideakosakidetza-77e509.gitlab.io/" target="_blank">Grafiko interaktibo honetan</a>, Osakidetzako lanbide kategoria guztietarako (234) kontsulta ditzakezu ESI bakoitzean (13) egiaztatutako eta eskatutako hizkuntza eskakizunak.
 
-<a href="https://derechoslinguisticos-f68731.gitlab.io/" target="_blank"><img src="/img/herramienta-analisis-perfiles-osakidetza_click_eus.png" title="Klik bertsio interaktiboa ikusteko" alt="Kontsulta Osakidetzako lanbide kategoria guztietan (234)"></a>
+<a href="https://hizkuntzaeskubideakosakidetza-77e509.gitlab.io/" target="_blank"><img src="/img/herramienta-analisis-perfiles-osakidetza_click_eus.png" title="Klik bertsio interaktiboa ikusteko" alt="Kontsulta Osakidetzako lanbide kategoria guztietan (234)"></a>
 
 ---
 Datuak: Eusko Jaurlaritzako Osasun Saila, 2025. Kontsultatu [Metodologia eta datuak atalean](/metod).
