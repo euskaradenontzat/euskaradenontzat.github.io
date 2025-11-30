@@ -114,8 +114,8 @@ Euskadiko Estatuko Administrazio Orokorrak ere elebitasuna errespetatu behar du,
 </figure> 
 
 <figure>
-<a href="vis/osakidetza_eus/" target="_blank"><img src="/img/osis_osakidetza_perfiles_medico-familia_2025_eus.png" title="Osasun eskaria euskaraz, egiaztatutako eta eskatutako hizkuntza eskakizunak, Osakidetzan. Sakatu tamaina osoan ikusteko." style="width:50%;"></a>
-<figcaption>Osasun eskaria euskaraz, egiaztatutako eta eskatutako hizkuntza eskakizunak, Osakidetzan. <a href="vis/osakidetza_eus/">Sakatu tamaina osoan ikusteko</a>.</figcaption>
+<a href="vis/osakidetza_eus/" target="_blank"><img src="/img/osis_osakidetza_perfiles_medico-familia_2025_eus.png" title="Osasun eskaria euskaraz, egiaztatutako eta eskatutako hizkuntza eskakizunak, Osakidetzan. Sakatu hausnarketarako berariazko web orria ikusteko." style="width:50%;"></a>
+<figcaption>Osasun eskaria euskaraz, egiaztatutako eta eskatutako hizkuntza eskakizunak, Osakidetzan. <a href="vis/osakidetza_eus/">Sakatu hausnarketarako berariazko web orria ikusteko</a>.</figcaption>
 </figure> 
 
 ##### C.III.- Hizkuntza-eskakizuna merezimendu gisa
