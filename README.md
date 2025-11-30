@@ -109,8 +109,13 @@ Euskadiko Estatuko Administrazio Orokorrak ere elebitasuna errespetatu behar du,
 |Datuak: Zuzenean, Behatokia eta Elebide. 2020  | |
 
 <figure>
-<a href="vis/profilak_eus/" target="_blank"><img src="img/usos_eus_r.png" title="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria)" title="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria)" style="width:50%;"></a>
+<a href="vis/profilak_eus/" target="_blank"><img src="img/usos_eus_r.png" title="Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria)" style="width:50%;"></a>
 <figcaption>Euskararen erabilera aitortua, eta hizkuntza-eskakizunen legezko eskakizuna eta praktika udalerri bakoitzean (biztanleriaren tamainaren eta lurralde historikoaren arabera hautagarria).<a href="vis/profilak_eus/">Sakatu tamaina osoan ikusteko</a>.</figcaption>
+</figure> 
+
+<figure>
+<a href="vis/osakidetza_eus/" target="_blank"><img src="/img/osis_osakidetza_perfiles_medico-familia_2025_eus.png" title="Osasun eskaria euskaraz, egiaztatutako eta eskatutako hizkuntza eskakizunak, Osakidetzan. Sakatu tamaina osoan ikusteko." style="width:50%;"></a>
+<figcaption>Osasun eskaria euskaraz, egiaztatutako eta eskatutako hizkuntza eskakizunak, Osakidetzan. <a href="vis/osakidetza_eus/">Sakatu tamaina osoan ikusteko</a>.</figcaption>
 </figure> 
 
 ##### C.III.- Hizkuntza-eskakizuna merezimendu gisa

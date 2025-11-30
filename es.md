@@ -108,9 +108,14 @@ La AGE en Euskadi también debe respetar el bilingüismo y aplicar la cooficiali
 |Datos: Zuzenean, Behatokia y Elebide. 2020  |
 
 <figure>
-<a href="vis/usos_es/" target="_blank"><img src="img/usos_es_r.png" title="
-Uso declarado del euskera, y exigencia legal y práctica de perfiles lingüísticos en cada municipio (seleccionable por tamaño de población y territorio histórico)" title="Uso declarado del euskera, y exigencia legal y práctica de perfiles lingüísticos en cada municipio (seleccionable por tamaño de población y territorio histórico) " style="width:50%;"></a>
+<a href="vis/usos_es/" target="_blank"><img src="img/usos_es_r.png" title="Uso declarado del euskera, y exigencia legal y práctica de perfiles lingüísticos en cada municipio (seleccionable por tamaño de población y territorio histórico) " style="width:50%;"></a>
 <figcaption>Uso declarado del euskera, y exigencia legal y práctica de perfiles lingüísticos en cada municipio (seleccionable por tamaño de población y territorio histórico). <a href="vis/usos_es/">Pulsa para ver a tamaño completo</a>.</figcaption>
+</figure> 
+
+
+<figure>
+<a href="vis/osakidetza_es/" target="_blank"><img src="/img/osis_osakidetza_perfiles_medico-familia_2025_es.png" title="Demanda sanitaria en euskera, perfiles lingüísticos acreditados y exigidos, en Osakidetza. Pulsa para ver tamaño completo" style="width:50%;"></a>
+<figcaption>Demanda sanitaria en euskera, perfiles lingüísticos acreditados y exigidos, en Osakidetza. <a href="vis/osakidetza_es/">Pulsa para ver a tamaño completo</a>.</figcaption>
 </figure> 
 
 ##### C.III.- Perfil lingüístico como mérito proporcionado
