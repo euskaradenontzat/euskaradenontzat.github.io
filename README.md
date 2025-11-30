@@ -132,7 +132,9 @@ Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak o
 
 ## Aktibitateak
 
-<img src="img/240109-17_solasaldiak-iragarkiak_eus.png" alt="Solasaldia. Bilbao 2024-01-19 - Donostia 2024-01-17" width="600">
+<img src="img/250626_aktibitatea_04_es.png" width="250">
+
+<img src="img/240109-17_solasaldiak-iragarkiak_eus.png" alt="Solasaldia. Bilbao 2024-01-19 - Donostia 2024-01-17" width="250">
 
 <img src="img/231116_solasaldia.jpg" alt="Solasaldia. Vitoria 2023-11-16" width="250">
 
