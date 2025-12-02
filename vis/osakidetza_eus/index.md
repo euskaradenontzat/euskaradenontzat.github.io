@@ -15,7 +15,7 @@ ESI bakoitzak euskararen B2 maila (derrigorrezko eskakizuna) eskatzen du, hizkun
 <figcaption>Osakidetzan osasun arreta euskaraz jasotzeko eskaria, egiaztatutako eta eskatutako hizkuntza eskakizunak. 2025. <a href="/img/osis_osakidetza_perfiles_medico-familia_2025_eus.png">Sakatu tamaina osoan ikusteko</a>.</figcaption>
 </figure> 
 
-Paradoxikoki, euskarazko eskaririk ia ez dagoen eremuetan, lanpostu gehienetarako hizkuntza eskakizuna duten profesionalak kontratatzea neurriz kanpo lehenesten da; aldiz, aldiro salatzen da euskarazko arreta eskaera nagusi den eremuetan hizkuntza eskakizuna duten profesionalak falta direla. Ikus UEMAren 2023ko txostena, Amoroto, Arrankudiaga, Asteasu, Ataun, Irura, Otxandio...
+Paradoxikoki, euskarazko eskaririk ia ez dagoen eremuetan, lanpostu gehienetarako hizkuntza eskakizuna duten profesionalak kontratatzea neurriz kanpo lehenesten da; aldiz, aldiro salatzen da euskarazko arreta eskaera nagusi den eremuetan hizkuntza eskakizuna duten profesionalak falta direla. [Ikus UEMAren 2023ko txostena](https://www.uema.eus/eu-ES/Albisteak/Orriak/20230612-uemako-hamar-osasun-langiletik-hiruk-ez-daukate-euskara-maila-egiaztatua.aspx), Amoroto, Arrankudiaga, Asteasu, Ataun, Irura, Otxandio...
 
 Hurrengo mapan honako portzentaje hauek kontsulta [ditzakezu ESI bakoitzean](https://www.uema.eus/eu-ES/Albisteak/Orriak/20230612-uemako-hamar-osasun-langiletik-hiruk-ez-daukate-euskara-maila-egiaztatua.aspx): (1) Osasun eskaria euskaraz (pazienteen %); (2) Derrigorrezko eskakizuna (lanpostuen %); (3) Egiaztatutako eskakizuna (pertsonalaren %) osasun kategoria nagusietarako, langile kopuruaren arabera: familia medikuak, erizain laguntzaileak, zeladoreak eta erizainak.
 
