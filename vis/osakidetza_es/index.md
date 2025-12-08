@@ -12,7 +12,7 @@ Cada OSI exige el nivel B2 de euskera (perfil exigido) en una proporción muy su
 
 <figure>
 <a href="/img/osis_osakidetza_perfiles_medico-familia_2025_es.png" target="_blank"><img src="/img/osis_osakidetza_perfiles_medico-familia_2025_es.png" title="Pulsa para ver a tamaño completo" alt="Demanda de atención sanitaria en euskera en Osakidetza, perfiles lingüísticos acreditados y exigidos. 2025"></a>
-<figcaption>Demanda de atención sanitaria en euskera en Osakidetza, perfiles lingüísticos acreditados y exigidos. 2025. <a href="/img/osis_osakidetza_perfiles_medico-familia_2025.png">Pulsa para ver a tamaño completo</a>.</figcaption>
+<figcaption>Demanda de atención sanitaria en euskera en Osakidetza, perfiles lingüísticos acreditados y exigidos. 2025. <a href="/img/osis_osakidetza_perfiles_medico-familia_2025_es.png">Pulsa para ver a tamaño completo</a>.</figcaption>
 </figure> 
 
 Paradójicamente en zonas dónde apenas hay demanda en euskera se prioriza desproporcionadamente la contratación de profesionales con perfil lingüístico para la mayoría de los puestos, mientras periódicamente se denuncia que en zonas dónde es mayoritaria la demanda de atención en euskera, faltan profesionales con perfil lingüístico. Véase el [informe de UEMA de 2023](https://www.uema.eus/eu-ES/Albisteak/Orriak/20230612-uemako-hamar-osasun-langiletik-hiruk-ez-daukate-euskara-maila-egiaztatua.aspx), señalando los casos de Amoroto, Arrankudiaga, Asteasu, Ataun, Irura, Otxandio… 
