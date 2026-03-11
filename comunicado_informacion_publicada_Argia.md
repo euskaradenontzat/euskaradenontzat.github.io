@@ -13,8 +13,8 @@ title: "En defensa del derecho a organizarse frente a abusos en la aplicación d
 ## En defensa del derecho a organizarse frente a abusos en la aplicación de perfiles lingüísticos
 
 <iframe src="Comunicado_ante_la_informacion_publicada_en_Argia_Euskara_denontzat.pdf" width="100%" height="600px">
-  <a href="Comunicado_ante_la_informacion_publicada_en_Argia_Euskara_denontzat.pdf">Descarga PDF</a>
 </iframe>
+<a href="Comunicado_ante_la_informacion_publicada_en_Argia_Euskara_denontzat.pdf">Descarga PDF</a>
 
 <meta property="og:title" content="euskaradenontzat">
 <style>
