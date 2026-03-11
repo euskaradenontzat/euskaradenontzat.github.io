@@ -73,7 +73,4 @@ h1:nth-child(1) {
 a {
  color: #ba006b;
 }
-p {
-  font-size: 1.2em;
-}
 </style>
