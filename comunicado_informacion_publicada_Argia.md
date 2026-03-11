@@ -1,6 +1,7 @@
 ---
 title: "En defensa del derecho a organizarse frente a abusos en la aplicación de perfiles lingüísticos"
 ---
+[Inicio](/) | [12 propuestas](/#texto-explicativo-de-12-propuestas-para-debatir-sobre-la-renovación-de-la-política-lingüística-vasca) | [Actividades](/#actividades) | [Noticias](alb) | [Metodología y datos](metod) | [Recibir información](/#para-recibir-información-sobre-esta-campaña-apúntate-aquí)
 
 [Euskera](Argiak_argitaratutako_informazioaren_inguruko_komunikatua) | Castellano
 
