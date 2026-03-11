@@ -10,6 +10,7 @@
 * [Euskara eskakizunak apaltzeko eskatu du Euskara Denontzat plataformak. Berria 2022/10/08.](https://www.berria.eus/albisteak/219235/euskara-eskakizunak-apaltzeko-eskatu-du-euskara-denontzat-plataformak.htm)
 * [(BIDEOA) Ebaluazio jarraituaren bidezko zertifikazioa: premiazko erronka HABE eta euskaltegientzat. Joseba Erkizia HABEren zuzendari ohiaren hitzaldia.](https://www.youtube.com/watch?v=NgdYM29SmAw)
 * [(BIDEOA, amaierako 7 min, subtítulos) Ebaluazio jarraituaren bidezko zertifikazioa: premiazko erronka HABE eta euskaltegientzat. Joseba Erkizia HABEren zuzendari ohiaren hitzaldia.](https://www.youtube.com/watch?v=LILUWiHPfkY)
+* [Hizkuntza eskakizunen aplikazioan gehiegikerien aurrean antolatzeko eskubidearen alde](Argiak_argitaratutako_informazioaren_inguruko_komunikatua). 2026/03/11
 
 
 ## Noticias
@@ -19,6 +20,7 @@
 * <a href="mp3/CronicaEuskadi.RadioEuskadi.mp3">Entrevista de Dani Álvarez en Crónica Euskadi de Radio Euskadi 23/09/2022.</a>
 * [Entrevista en Hora 14 Euskadi. Cadena SER 08/10/2022.](https://cadenaser.com/euskadi/2022/10/08/la-iniciativa-euskara-denontzat-pide-adaptar-la-exigencia-de-euskera-a-la-realidad-linguistica-de-cada-zona-radio-bilbao/)
 * <a href="mp3/Sabin Zubiri Radio Euskadi 4 nov 2023.mp3">Entrevista de Liher Puente en Crónica Euskadi de Radio Euskadi 05/11/2023.</a>
+* [En defensa del derecho a organizarse frente a abusos en la aplicación de perfiles lingüísticos](comunicado_informacion_publicada_Argia). 11/03/2026.
 
 <meta property="og:title" content="euskaradenontzat">
 <style>
