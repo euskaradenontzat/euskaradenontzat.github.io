@@ -44,10 +44,12 @@ Instamos a debatir pública y democráticamente con los agentes y medios que nos
 **Aprovechamos para decir a toda la ciudadanía vasca que sienta miedo frente a posibles abusos que se ponga en contacto con estas entidades. No nos intimidan y seguiremos ayudando a quien lo necesite.**
 
 Sabin Zubiri<br><img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat sin barreras" width="200">  | Teresa Perales<br><img src="img/logo-unidas-igualdad-liguistica.png" alt="Logo Unidas por la igualdad lingüistica" width="200">
+  
+<a href="es">
+<img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat sin barreras">
+</a>
 
-<iframe src="Comunicado_ante_la_informacion_publicada_en_Argia_Euskara_denontzat.pdf" width="100%" height="600px">
-</iframe>
-<a href="Comunicado_ante_la_informacion_publicada_en_Argia_Euskara_denontzat.pdf">Descarga PDF</a>
+<a href="Comunicado_ante_la_informacion_publicada_en_Argia_Euskara_denontzat.pdf">En defensa del derecho a organizarse frente a abusos en la aplicación de perfiles lingüísticos (PDF)</a>
 
 <meta property="og:title" content="euskaradenontzat">
 <style>
