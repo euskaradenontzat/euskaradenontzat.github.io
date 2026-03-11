@@ -2,7 +2,7 @@
 title: "En defensa del derecho a organizarse frente a abusos en la aplicación de perfiles lingüísticos"
 ---
 
-[Euskera](Argiak_argitaratutako_informazioaren_inguruko_komunikatua) | [Castellano](es)
+[Euskera](Argiak_argitaratutako_informazioaren_inguruko_komunikatua) | Castellano
 
 <a href="es">
 <img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat sin barreras">
