@@ -46,9 +46,11 @@ Adierazten dizkiguten eragile eta bitartekoekin publikoki eta demokratikoki ezta
 
 Sabin Zubiri<br><img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat sin barreras" width="200">  | Teresa Perales<br><img src="img/logo-unidas-igualdad-liguistica.png" alt="Logo Unidas por la igualdad lingüistica" width="200">
 
-<iframe src="Argiak_argitaratutako_informazioaren_inguruko_komunikatua_Euskara.pdf" width="100%" height="600px">
-</iframe>
-<a href="Argiak_argitaratutako_informazioaren_inguruko_komunikatua_Euskara.pdf">PDF</a>
+<a href="Argiak_argitaratutako_informazioaren_inguruko_komunikatua_Euskara.pdf">Hizkuntza eskakizunen aplikazioan gehiegikerien aurrean antolatzeko eskubidearen alde (PDF)</a>
+
+<a href="/">
+<img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat sin barreras">
+</a>
 
 <meta property="og:title" content="euskaradenontzat">
 <style>
