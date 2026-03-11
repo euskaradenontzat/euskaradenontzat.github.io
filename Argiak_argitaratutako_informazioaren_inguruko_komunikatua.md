@@ -4,7 +4,7 @@ title: "Hizkuntza eskakizunen aplikazioan gehiegikerien aurrean antolatzeko esku
 
 Euskera | [Castellano](comunicado_informacion_publicada_Argia)
 
-<a href="">
+<a href="/">
 <img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat sin barreras">
 </a>
 
