@@ -1,10 +1,17 @@
-[Euskera](/) | [Castellano](es)
+---
+title: "En defensa del derecho a organizarse frente a abusos en la aplicación de perfiles lingüísticos"
+---
 
+[Euskera](Argiak_argitaratutako_informazioaren_inguruko_komunikatua) | [Castellano](es)
+
+<a href="es">
 <img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat sin barreras">
+</a>
 
 <h1 id="euskaradenontzat" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008871;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span> </h1>
 
 ## En defensa del derecho a organizarse frente a abusos en la aplicación de perfiles lingüísticos
+
 <iframe src="Comunicado_ante_la_informacion_publicada_en_Argia_Euskara_denontzat.pdf" width="100%" height="600px">
   <a href="Comunicado_ante_la_informacion_publicada_en_Argia_Euskara_denontzat.pdf">Descarga PDF</a>
 </iframe>
