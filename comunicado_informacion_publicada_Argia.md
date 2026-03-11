@@ -1,13 +1,13 @@
 ---
 title: "En defensa del derecho a organizarse frente a abusos en la aplicación de perfiles lingüísticos"
 ---
-[Inicio](/) | [12 propuestas](/#texto-explicativo-de-12-propuestas-para-debatir-sobre-la-renovación-de-la-política-lingüística-vasca) | [Actividades](/#actividades) | [Noticias](alb) | [Metodología y datos](metod) | [Recibir información](/#para-recibir-información-sobre-esta-campaña-apúntate-aquí)
-
 [Euskera](Argiak_argitaratutako_informazioaren_inguruko_komunikatua) | Castellano
 
 <a href="es">
 <img src="img/logo_euskara-denontzat_p.png" alt="Logo Euskara Denontzat sin barreras">
 </a>
+
+[Inicio](/) | [12 propuestas](/#texto-explicativo-de-12-propuestas-para-debatir-sobre-la-renovación-de-la-política-lingüística-vasca) | [Actividades](/#actividades) | [Noticias](alb) | [Metodología y datos](metod) | [Recibir información](/#para-recibir-información-sobre-esta-campaña-apúntate-aquí)
 
 <h1 id="euskaradenontzat" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008871;">EUSKARA DENONTZAT, POR UN EUSKERA SIN BARRERAS</span> </h1>
 
