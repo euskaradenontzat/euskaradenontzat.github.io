@@ -133,12 +133,14 @@ Explicación: De igual manera que la perspectiva de género ayuda a la hora de o
  
 ## Actividades
 
+
+<img src="img/260318_asanblada-informatibo-irekia.png" width="250">
+
 <img src="img/250626_aktibitatea_04_es.png" width="250">
 
 <img src="img/240109-17_solasaldiak-iragarkiak_eus.png" alt="Solasaldia. Bilbao 2024-01-19 - Donostia 2024-01-17" width="250">
 
 <img src="img/231116_solasaldia.jpg" alt="Solasaldia. Vitoria 2023-11-16" width="250">
-
 
 <img src="img/230509_las-lenguas-y-el-derecho.jpg" alt="cartel 9 mayo 2023" width="250">
 
