@@ -6,21 +6,23 @@
 
 ## Albisteak
 
-* [Hizkuntza politikari buruzko eztabaida, norantz?. Iñaki Guridiren elkarrizketa Euskadi Irratiko Faktorian 2022/10/05.](https://www.eitb.eus/eu/irratia/euskadi-irratia/programak/faktoria/osoa/8976416/hizkuntza-politikari-buruzko-eztabaida-norantz/)
-* [Euskara eskakizunak apaltzeko eskatu du Euskara Denontzat plataformak. Berria 2022/10/08.](https://www.berria.eus/albisteak/219235/euskara-eskakizunak-apaltzeko-eskatu-du-euskara-denontzat-plataformak.htm)
+* [Hizkuntza politikari buruzko eztabaida, norantz?. Iñaki Guridiren elkarrizketa Euskadi Irratiko Faktorian](https://www.eitb.eus/eu/irratia/euskadi-irratia/programak/faktoria/osoa/8976416/hizkuntza-politikari-buruzko-eztabaida-norantz/). 2022/10/05.
+* [Euskara eskakizunak apaltzeko eskatu du Euskara Denontzat plataformak. Berria.](https://www.berria.eus/albisteak/219235/euskara-eskakizunak-apaltzeko-eskatu-du-euskara-denontzat-plataformak.htm). 2022/10/08.
 * [(BIDEOA) Ebaluazio jarraituaren bidezko zertifikazioa: premiazko erronka HABE eta euskaltegientzat. Joseba Erkizia HABEren zuzendari ohiaren hitzaldia.](https://www.youtube.com/watch?v=NgdYM29SmAw)
 * [(BIDEOA, amaierako 7 min, subtítulos) Ebaluazio jarraituaren bidezko zertifikazioa: premiazko erronka HABE eta euskaltegientzat. Joseba Erkizia HABEren zuzendari ohiaren hitzaldia.](https://www.youtube.com/watch?v=LILUWiHPfkY)
-* [Argiak argitaratutako informazioaren inguruko komunikatua](Argiak_argitaratutako_informazioaren_inguruko_komunikatua). 2026/03/11
+* [Argiak argitaratutako informazioaren inguruko komunikatua](Argiak_argitaratutako_informazioaren_inguruko_komunikatua). 2026/03/11.
+* [Argia-ren muntaiari buruzko elkarrizketa Euskadi Irratian (Faktoria)](mp3/2026-03-16_argiaren-muntiari-buruzko-elkarrizketta-euskari-irratian-faktoria.mp3). 2026/03/16.
 
 
 ## Noticias
 
-* ['Euskara denontzat' propone reformar el sistema lingüístico vasco: sólo el 12% de la población adulta tiene un B2 o superior. Hordago-El Salto 22/09/2022.](https://www.elsaltodiario.com/euskera/euskara-denontzat-propone-reformar-el-sistema-de-examenes-y-perfiles-linguisticos)
-* [Una nueva plataforma pide permisos retribuidos para que trabajadores del sector privado estudien euskera. Eldiario.es Euskadi 22/09/2022.](https://www.eldiario.es/euskadi/nueva-plataforma-pide-permisos-retribuidos-trabajadores-sector-privado-estudien-euskera_1_9557188.html)
-* <a href="mp3/CronicaEuskadi.RadioEuskadi.mp3">Entrevista de Dani Álvarez en Crónica Euskadi de Radio Euskadi 23/09/2022.</a>
-* [Entrevista en Hora 14 Euskadi. Cadena SER 08/10/2022.](https://cadenaser.com/euskadi/2022/10/08/la-iniciativa-euskara-denontzat-pide-adaptar-la-exigencia-de-euskera-a-la-realidad-linguistica-de-cada-zona-radio-bilbao/)
-* <a href="mp3/Sabin Zubiri Radio Euskadi 4 nov 2023.mp3">Entrevista de Liher Puente en Crónica Euskadi de Radio Euskadi 05/11/2023.</a>
+* ['Euskara denontzat' propone reformar el sistema lingüístico vasco: sólo el 12% de la población adulta tiene un B2 o superior. Hordago-El Salto](https://www.elsaltodiario.com/euskera/euskara-denontzat-propone-reformar-el-sistema-de-examenes-y-perfiles-linguisticos). 22/09/2022.
+* [Una nueva plataforma pide permisos retribuidos para que trabajadores del sector privado estudien euskera. Eldiario.es Euskadi](https://www.eldiario.es/euskadi/nueva-plataforma-pide-permisos-retribuidos-trabajadores-sector-privado-estudien-euskera_1_9557188.html). 22/09/2022.
+* <a href="mp3/CronicaEuskadi.RadioEuskadi.mp3">Entrevista de Dani Álvarez en Crónica Euskadi de Radio Euskadi</a>. 23/09/2022.
+* [Entrevista en Hora 14 Euskadi. Cadena SER](https://cadenaser.com/euskadi/2022/10/08/la-iniciativa-euskara-denontzat-pide-adaptar-la-exigencia-de-euskera-a-la-realidad-linguistica-de-cada-zona-radio-bilbao/). 08/10/2022.
+* <a href="mp3/Sabin Zubiri Radio Euskadi 4 nov 2023.mp3">Entrevista de Liher Puente en Crónica Euskadi de Radio Euskadi</a>. 05/11/2023.
 * [Comunicado ante la información publicada por Argia](comunicado_informacion_publicada_Argia). 11/03/2026.
+* [Entrevista en Radio Euskadi sobre el montaje de Argia](mp3/2026-03-16_entrevista-radio-euskadi-montaje-argia.mp3). 16/03/2026.
 
 <meta property="og:title" content="euskaradenontzat">
 <style>
