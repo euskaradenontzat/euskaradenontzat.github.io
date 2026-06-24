@@ -14,8 +14,7 @@
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Izena eman</a>
 
-<iframe title="Erabilpena, ezagutza eta hizkuntza eskakizunak Euskadiko udalherrietan" aria-label="Map" id="datawrapper-chart-UIdgO" src="https://datawrapper.dwcdn.net/UIdgO/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="672"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+<iframe title="Erabilpena, ezagutza eta hizkuntza eskakizunak Euskadiko udalherrietan (2025)" aria-label="Mapa coroplético" id="datawrapper-chart-Kd7ts" src="https://datawrapper.dwcdn.net/Kd7ts/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="701" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>
 
 ## Laburpena
 
