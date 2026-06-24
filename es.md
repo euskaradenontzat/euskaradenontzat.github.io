@@ -13,8 +13,7 @@
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScEcKKbk8gD_PHpn-GfKbukyWDQVaod6czuvYwzLU65Yu_WmA/viewform?usp=sf_link" class="pressbutton">Recibir información</a>
 
-<iframe title="Conocimiento, uso y perfiles lingüísticos por municipio en Euskadi" aria-label="Mapa" id="datawrapper-chart-u0UUA" src="https://datawrapper.dwcdn.net/u0UUA/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="699"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+<iframe title="Uso, conocimiento y perfiles lingüísticos por municipio en Euskadi" aria-label="Mapa coroplético" id="datawrapper-chart-Ee4Nb" src="https://datawrapper.dwcdn.net/Ee4Nb/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="683" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ## Resumen
 
