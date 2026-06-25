@@ -6,9 +6,15 @@
 
 ## Grafikoak: metodologia eta datuak
 
-* [Euskal AEko biztanleria, biziterriari jarraiki, sexuaren eta etxean hitzegindako hizkuntzaren arabera. 2016](https://eu.eustat.eus/elementos/ele0014700/ti_poblacion-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-sexo-y-la-lengua-hablada-en-casa-2016/tbl0014755_e.html)
-* [Euskal AEko 2 urteko eta gehiagoko biztanleria, bizi-udalerriareni jarraiki, euskara maila globalaren arabera. 2016](https://eu.eustat.eus/elementos/ele0014600/ti_43-poblacion-de-2-y-mas-anos-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-nivel-global-de-euskara-2016/tbl0014689_e.html)
-* [86/1997 Dekretuak araututako erakundeetako hizkuntza eskakizunak](https://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE:6420429909286::NO:RP:P18_ID,P18_EXPAND:65213,N&p_lang=eu)
+* Euskal AEko biztanleria, biziterriari jarraiki, sexuaren eta etxean hitzegindako hizkuntzaren arabera.
+  * [Datuak 2016](https://www.eustat.eus/elementos/ele0014700/poblacion-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-sexo-y-la-lengua-hablada-en-casa/tbl0014755_c.html)
+  * [Datuak 2021](https://es.eustat.eus/elementos/ele0021900/poblacion-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-sexo-y-la-lengua-hablada-en-casa/tbl0021957_c.html)
+* Euskal AEko 2 urteko eta gehiagoko biztanleria, bizi-udalerriareni jarraiki, euskara maila globalaren arabera.
+  * [Datuak 2016](https://www.eustat.eus/elementos/ele0014600/43-poblacion-de-2-y-mas-anos-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-nivel-global-de-euskara/tbl0014689_c.html)
+  * [Datuak 2021](https://es.eustat.eus/elementos/ele0020800/43-poblacion-de-2-y-mas-anos-de-la-ca-de-euskadi-por-ambitos-territoriales-segun-nivel-global-de-euskera/tbl0020887_c.html)
+* 19/2024 Dekretuak araututako erakundeetako hizkuntza eskakizunak
+  * [Datuak 2019](https://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE:6420429909286::NO:RP:P18_ID,P18_EXPAND:65213,N&p_lang=es)
+  * [Datuak 2025](https://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE:4789174754944::NO:RP:P18_ID,P18_EXPAND:87664,N&p_lang=es)
 * [Udalherrien inguruak. Euskalgeo](http://www.euskalgeo.net/eu/deskargak/zonifikazio-administratiboa)
 * [Helduen euskalduntzearen azterketa. 2009-2010 / 2018-2019. HABE](https://www.ikasten.ikasbil.eus/mod/habecms/view.php/irakasbil/argitalpenak/e-hizpide_monografiak-sei)
 * [Zuzenean herritarrentzako zerbitzuaren jarduerari buruzko 2020ko txostena](https://www.euskadi.eus/contenidos/informacion/informes_mensuales_zuzenean/eu_def/adjuntos/2020/Txostenak_jarduera_2020_urteko_v1.pdf)
@@ -21,9 +27,15 @@
 
 ## Gráficos: metodología y datos
 
-* [Población de la C.A. de Euskadi por el municipio de residencia, según el sexo y la lengua hablada en casa. Eustat. 2016](https://www.eustat.eus/elementos/ele0014700/poblacion-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-sexo-y-la-lengua-hablada-en-casa/tbl0014755_c.html)
-* [Población de 2 y más años de la C.A. de Euskadi por el municipio de residencia, según el nivel global de euskara. Eustat. 2016](https://www.eustat.eus/elementos/ele0014600/43-poblacion-de-2-y-mas-anos-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-nivel-global-de-euskara/tbl0014689_c.html)
-* [Perfiles lingüísticos en instituciones reguladas por el Decreto 86/1997](https://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE:6420429909286::NO:RP:P18_ID,P18_EXPAND:65213,N&p_lang=es)
+* Población de la C.A. de Euskadi por el municipio de residencia, según el sexo y la lengua hablada en casa. Eustat
+  * [Datos 2016](https://www.eustat.eus/elementos/ele0014700/poblacion-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-sexo-y-la-lengua-hablada-en-casa/tbl0014755_c.html)
+  * [Datos 2021](https://es.eustat.eus/elementos/ele0021900/poblacion-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-sexo-y-la-lengua-hablada-en-casa/tbl0021957_c.html)
+* Población de 2 y más años de la C.A. de Euskadi por el municipio de residencia, según el nivel global de euskara. Eustat.
+  * [Datos 2016](https://www.eustat.eus/elementos/ele0014600/43-poblacion-de-2-y-mas-anos-de-la-ca-de-euskadi-por-el-municipio-de-residencia-segun-el-nivel-global-de-euskara/tbl0014689_c.html)
+  * [Datos 2021](https://es.eustat.eus/elementos/ele0020800/43-poblacion-de-2-y-mas-anos-de-la-ca-de-euskadi-por-ambitos-territoriales-segun-nivel-global-de-euskera/tbl0020887_c.html)
+* Perfiles lingüísticos en instituciones reguladas por el Decreto 19/2024
+  * [Datos 2019](https://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE:6420429909286::NO:RP:P18_ID,P18_EXPAND:65213,N&p_lang=es)
+  * [Datos 2025](https://www.legebiltzarra.eus/ords/f?p=CTP:INICIATIVA_DETALLE:4789174754944::NO:RP:P18_ID,P18_EXPAND:87664,N&p_lang=es)
 * [Contornos de municipios. Euskalgeo](http://www.euskalgeo.net/es/descargas/zonificacion-administrativa)
 * [Estudio de la euskaldunización de adultos. 2009-2010 / 2018-2019. HABE (en euskera)](https://www.ikasten.ikasbil.eus/mod/habecms/view.php/irakasbil/argitalpenak/e-hizpide_monografiak-sei)
 * [Informe de actividad del servicio de atención a la ciudadanía Zuzenean Informe anual 2020](https://www.euskadi.eus/contenidos/informacion/informes_mensuales_zuzenean/es_def/adjuntos/2020/Informes_actividad_2020_anual_v1.pdf)
