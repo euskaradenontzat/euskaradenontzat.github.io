@@ -131,6 +131,8 @@ Azalpena: Genero ikuspegiak erabateko berdintasuna lortzeko politika publikoak o
 
 ## Aktibitateak
 
+<img src="img/261201_charla-acuerdo-ley.jpg" width="250">
+
 <img src="img/260318_asanblada-informatibo-irekia.png" width="250">
 
 <img src="img/250626_aktibitatea_04_es.png" width="250">
