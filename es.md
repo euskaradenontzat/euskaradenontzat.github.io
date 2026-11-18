@@ -132,6 +132,7 @@ Explicación: De igual manera que la perspectiva de género ayuda a la hora de o
  
 ## Actividades
 
+<img src="img/261201_charla-acuerdo-ley.jpg" width="250">
 
 <img src="img/260318_asanblada-informatibo-irekia.png" width="250">
 
